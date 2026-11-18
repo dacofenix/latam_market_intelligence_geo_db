@@ -1,0 +1,194 @@
+{
+ "country": "AR",
+ "layer": "G",
+ "source_id": "INDEC_EPH_2025",
+ "period": "2025 (Q1-Q4 average)",
+ "G1_it_staff_core_personas": 167582,
+ "G1_outside_tech_pct": 40.4,
+ "G1_by_sector": [
+  {
+   "sector": "Information and communication (tech sector: CAES J)",
+   "caes_section": "J",
+   "employed": 99650,
+   "share_pct": 59.5
+  },
+  {
+   "sector": "Finance and insurance",
+   "caes_section": "K",
+   "employed": 13765,
+   "share_pct": 8.2
+  },
+  {
+   "sector": "Public administration",
+   "caes_section": "O",
+   "employed": 9542,
+   "share_pct": 5.7
+  },
+  {
+   "sector": "Professional, scientific and technical services",
+   "caes_section": "M",
+   "employed": 9136,
+   "share_pct": 5.5
+  },
+  {
+   "sector": "Manufacturing",
+   "caes_section": "C",
+   "employed": 6219,
+   "share_pct": 3.7
+  },
+  {
+   "sector": "Wholesale and retail trade",
+   "caes_section": "G",
+   "employed": 4300,
+   "share_pct": 2.6
+  },
+  {
+   "sector": "Other services",
+   "caes_section": "S",
+   "employed": 4147,
+   "share_pct": 2.5
+  },
+  {
+   "sector": "Education",
+   "caes_section": "P",
+   "employed": 3642,
+   "share_pct": 2.2
+  },
+  {
+   "sector": "Arts and recreation",
+   "caes_section": "R",
+   "employed": 3425,
+   "share_pct": 2.0
+  },
+  {
+   "sector": "Health and social work",
+   "caes_section": "Q",
+   "employed": 2936,
+   "share_pct": 1.8
+  },
+  {
+   "sector": "Administrative services",
+   "caes_section": "N",
+   "employed": 2556,
+   "share_pct": 1.5
+  },
+  {
+   "sector": "Real estate",
+   "caes_section": "L",
+   "employed": 1592,
+   "share_pct": 0.9
+  },
+  {
+   "sector": "Transport and storage",
+   "caes_section": "H",
+   "employed": 1397,
+   "share_pct": 0.8
+  },
+  {
+   "sector": "Mining",
+   "caes_section": "B",
+   "employed": 1284,
+   "share_pct": 0.8
+  },
+  {
+   "sector": "Extraterritorial",
+   "caes_section": "U",
+   "employed": 1174,
+   "share_pct": 0.7
+  },
+  {
+   "sector": "Agriculture, forestry and fishing",
+   "caes_section": "A",
+   "employed": 781,
+   "share_pct": 0.5
+  },
+  {
+   "sector": "Construction",
+   "caes_section": "F",
+   "employed": 732,
+   "share_pct": 0.4
+  },
+  {
+   "sector": "Accommodation and food",
+   "caes_section": "I",
+   "employed": 647,
+   "share_pct": 0.4
+  },
+  {
+   "sector": "Not specified",
+   "caes_section": null,
+   "employed": 351,
+   "share_pct": 0.2
+  },
+  {
+   "sector": "Water and waste",
+   "caes_section": "E",
+   "employed": 245,
+   "share_pct": 0.1
+  },
+  {
+   "sector": "Electricity and gas",
+   "caes_section": "D",
+   "employed": 58,
+   "share_pct": 0.0
+  }
+ ],
+ "G2_outside_tech_employees_by_firm_size": {
+  "11-200": 17788,
+  "201+": 21210,
+  "unknown": 15389,
+  "up to 10": 4987
+ },
+ "G3_government_it_staff_by_section": {
+  "Public administration": 9542,
+  "Information and communication (tech sector: CAES J)": 1900,
+  "Finance and insurance": 1473,
+  "Arts and recreation": 1294,
+  "Health and social work": 1256,
+  "Education": 844,
+  "Professional, scientific and technical services": 662,
+  "Other services": 567,
+  "Manufacturing": 348,
+  "Construction": 205,
+  "Water and waste": 130,
+  "Extraterritorial": 69
+ },
+ "G4_public_sector_share_by_persona": {
+  "Software developers and analysts": {
+   "government_employee_pct": 17.1,
+   "public_administration_section_pct": 8.6
+  },
+  "ICT technicians and user support": {
+   "government_employee_pct": 5.7,
+   "public_administration_section_pct": 3.2
+  },
+  "Business and management analysts": {
+   "government_employee_pct": 8.2,
+   "public_administration_section_pct": 7.8
+  },
+  "Accountants and auditors": {
+   "government_employee_pct": 17.8,
+   "public_administration_section_pct": 13.8
+  },
+  "Finance and investment analysts": {
+   "government_employee_pct": 3.0,
+   "public_administration_section_pct": 0.0
+  },
+  "Engineers (non-ICT)": {
+   "government_employee_pct": 7.9,
+   "public_administration_section_pct": 3.4
+  },
+  "Business and operations managers": {
+   "government_employee_pct": 34.1,
+   "public_administration_section_pct": 11.0
+  },
+  "Higher-education and IT educators": {
+   "government_employee_pct": 72.5,
+   "public_administration_section_pct": 0.0
+  }
+ },
+ "checks": {
+  "g1_equals_sum_of_core_personas": true
+ },
+ "limitations": "Core personas available: P01 (includes database and network professionals) and P03; P02 and P04 are not identifiable in CNO-2001."
+}

@@ -1,0 +1,583 @@
+persona,municipality_code,department_code,city,buyer_type,employed,interviews,confidence
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,"Employee, firm 11-200",354,4,low
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,"Employee, firm 201+",242,3,low
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,"Employee, firm up to 10",164,2,low
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,Other or unknown,256,3,low
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,Self-employed or employer,628,6,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 11-200",11728,24,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 201+",14194,22,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm up to 10",3382,8,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,Government employee,5348,11,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,Other or unknown,4814,7,low
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,Self-employed or employer,13943,28,low
+Accountants and auditors,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 11-200",559,6,low
+Accountants and auditors,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 201+",207,3,low
+Accountants and auditors,30015,30,Concordia,"Employee, firm 11-200",32,1,low
+Accountants and auditors,30015,30,Concordia,"Employee, firm up to 10",88,3,low
+Accountants and auditors,30015,30,Concordia,Government employee,22,1,low
+Accountants and auditors,30015,30,Concordia,Self-employed or employer,262,10,low
+Accountants and auditors,18021,18,Corrientes,"Employee, firm 11-200",127,2,low
+Accountants and auditors,18021,18,Corrientes,"Employee, firm up to 10",128,2,low
+Accountants and auditors,18021,18,Corrientes,Government employee,315,4,low
+Accountants and auditors,18021,18,Corrientes,Other or unknown,350,4,low
+Accountants and auditors,18021,18,Corrientes,Self-employed or employer,360,3,low
+Accountants and auditors,34014,34,Formosa,"Employee, firm up to 10",36,1,low
+Accountants and auditors,34014,34,Formosa,Government employee,782,13,low
+Accountants and auditors,34014,34,Formosa,Self-employed or employer,45,1,low
+Accountants and auditors,10049,10,Gran Catamarca,"Employee, firm 11-200",61,2,low
+Accountants and auditors,10049,10,Gran Catamarca,"Employee, firm 201+",107,4,low
+Accountants and auditors,10049,10,Gran Catamarca,"Employee, firm up to 10",36,1,low
+Accountants and auditors,10049,10,Gran Catamarca,Government employee,690,10,low
+Accountants and auditors,10049,10,Gran Catamarca,Self-employed or employer,141,3,low
+Accountants and auditors,14014,14,Gran Córdoba,"Employee, firm 11-200",1032,4,low
+Accountants and auditors,14014,14,Gran Córdoba,"Employee, firm 201+",631,3,low
+Accountants and auditors,14014,14,Gran Córdoba,"Employee, firm up to 10",693,4,low
+Accountants and auditors,14014,14,Gran Córdoba,Government employee,2372,8,low
+Accountants and auditors,14014,14,Gran Córdoba,Other or unknown,1063,5,low
+Accountants and auditors,14014,14,Gran Córdoba,Self-employed or employer,3184,12,low
+Accountants and auditors,06441,06,Gran La Plata,"Employee, firm 11-200",678,1,low
+Accountants and auditors,06441,06,Gran La Plata,"Employee, firm up to 10",759,3,low
+Accountants and auditors,06441,06,Gran La Plata,Government employee,2185,8,low
+Accountants and auditors,06441,06,Gran La Plata,Other or unknown,252,1,low
+Accountants and auditors,06441,06,Gran La Plata,Self-employed or employer,504,2,low
+Accountants and auditors,50007,50,Gran Mendoza,"Employee, firm 11-200",1776,12,low
+Accountants and auditors,50007,50,Gran Mendoza,"Employee, firm up to 10",748,5,low
+Accountants and auditors,50007,50,Gran Mendoza,Government employee,179,1,low
+Accountants and auditors,50007,50,Gran Mendoza,Other or unknown,728,6,low
+Accountants and auditors,50007,50,Gran Mendoza,Self-employed or employer,1804,13,low
+Accountants and auditors,30084,30,Gran Paraná,"Employee, firm 11-200",282,5,low
+Accountants and auditors,30084,30,Gran Paraná,"Employee, firm up to 10",118,2,low
+Accountants and auditors,30084,30,Gran Paraná,Government employee,418,7,low
+Accountants and auditors,30084,30,Gran Paraná,Other or unknown,224,3,low
+Accountants and auditors,30084,30,Gran Paraná,Self-employed or employer,635,11,low
+Accountants and auditors,22140,22,Gran Resistencia,Government employee,524,2,low
+Accountants and auditors,22140,22,Gran Resistencia,Other or unknown,502,5,low
+Accountants and auditors,22140,22,Gran Resistencia,Self-employed or employer,346,4,low
+Accountants and auditors,82084,82,Gran Rosario,"Employee, firm 11-200",2985,13,low
+Accountants and auditors,82084,82,Gran Rosario,"Employee, firm 201+",2170,9,low
+Accountants and auditors,82084,82,Gran Rosario,"Employee, firm up to 10",643,4,low
+Accountants and auditors,82084,82,Gran Rosario,Government employee,611,3,low
+Accountants and auditors,82084,82,Gran Rosario,Other or unknown,1434,7,low
+Accountants and auditors,82084,82,Gran Rosario,Self-employed or employer,1384,8,low
+Accountants and auditors,66028,66,Gran Salta,"Employee, firm 11-200",444,5,low
+Accountants and auditors,66028,66,Gran Salta,"Employee, firm 201+",182,2,low
+Accountants and auditors,66028,66,Gran Salta,"Employee, firm up to 10",333,4,low
+Accountants and auditors,66028,66,Gran Salta,Government employee,663,7,low
+Accountants and auditors,66028,66,Gran Salta,Other or unknown,212,3,low
+Accountants and auditors,66028,66,Gran Salta,Self-employed or employer,462,5,low
+Accountants and auditors,70028,70,Gran San Juan,"Employee, firm 11-200",808,6,low
+Accountants and auditors,70028,70,Gran San Juan,"Employee, firm 201+",204,1,low
+Accountants and auditors,70028,70,Gran San Juan,"Employee, firm up to 10",704,6,low
+Accountants and auditors,70028,70,Gran San Juan,Government employee,348,4,low
+Accountants and auditors,70028,70,Gran San Juan,Other or unknown,332,3,low
+Accountants and auditors,70028,70,Gran San Juan,Self-employed or employer,332,3,low
+Accountants and auditors,74056,74,Gran San Luis,"Employee, firm up to 10",130,3,low
+Accountants and auditors,74056,74,Gran San Luis,Government employee,34,1,low
+Accountants and auditors,74056,74,Gran San Luis,Self-employed or employer,339,4,low
+Accountants and auditors,82063,82,Gran Santa Fe,"Employee, firm 11-200",60,1,low
+Accountants and auditors,82063,82,Gran Santa Fe,"Employee, firm up to 10",402,3,low
+Accountants and auditors,82063,82,Gran Santa Fe,Government employee,1447,9,low
+Accountants and auditors,82063,82,Gran Santa Fe,Other or unknown,236,2,low
+Accountants and auditors,82063,82,Gran Santa Fe,Self-employed or employer,707,6,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 11-200",1134,9,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 201+",91,1,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm up to 10",792,6,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,Government employee,943,8,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,Other or unknown,269,2,low
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,Self-employed or employer,1056,10,low
+Accountants and auditors,38021,38,Jujuy-Palpalá,"Employee, firm 11-200",57,1,low
+Accountants and auditors,38021,38,Jujuy-Palpalá,"Employee, firm 201+",77,1,low
+Accountants and auditors,38021,38,Jujuy-Palpalá,"Employee, firm up to 10",100,2,low
+Accountants and auditors,38021,38,Jujuy-Palpalá,Government employee,862,9,low
+Accountants and auditors,38021,38,Jujuy-Palpalá,Self-employed or employer,308,7,low
+Accountants and auditors,46014,46,La Rioja,"Employee, firm 11-200",85,2,low
+Accountants and auditors,46014,46,La Rioja,"Employee, firm up to 10",34,1,low
+Accountants and auditors,46014,46,La Rioja,Government employee,571,10,low
+Accountants and auditors,06357,06,Mar del Plata,"Employee, firm 11-200",1079,6,low
+Accountants and auditors,06357,06,Mar del Plata,"Employee, firm up to 10",237,2,low
+Accountants and auditors,06357,06,Mar del Plata,Government employee,481,3,low
+Accountants and auditors,06357,06,Mar del Plata,Self-employed or employer,1134,6,low
+Accountants and auditors,58035,58,Neuquén-Plottier,"Employee, firm 11-200",498,4,low
+Accountants and auditors,58035,58,Neuquén-Plottier,"Employee, firm 201+",226,2,low
+Accountants and auditors,58035,58,Neuquén-Plottier,"Employee, firm up to 10",611,5,low
+Accountants and auditors,58035,58,Neuquén-Plottier,Government employee,292,3,low
+Accountants and auditors,58035,58,Neuquén-Plottier,Self-employed or employer,402,3,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",6653,13,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",13738,24,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,"Employee, firm up to 10",4244,8,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,Government employee,7634,11,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,Other or unknown,5678,9,low
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,Self-employed or employer,6574,16,low
+Accountants and auditors,54028,54,Posadas,"Employee, firm 11-200",348,4,low
+Accountants and auditors,54028,54,Posadas,"Employee, firm up to 10",282,3,low
+Accountants and auditors,54028,54,Posadas,Government employee,148,2,low
+Accountants and auditors,54028,54,Posadas,Self-employed or employer,535,6,low
+Accountants and auditors,26077,26,Rawson-Trelew,"Employee, firm up to 10",34,1,low
+Accountants and auditors,26077,26,Rawson-Trelew,Government employee,44,1,low
+Accountants and auditors,14098,14,Río Cuarto,"Employee, firm 11-200",207,5,low
+Accountants and auditors,14098,14,Río Cuarto,"Employee, firm up to 10",49,2,low
+Accountants and auditors,14098,14,Río Cuarto,Government employee,186,4,low
+Accountants and auditors,14098,14,Río Cuarto,Self-employed or employer,372,9,low
+Accountants and auditors,78021,78,Río Gallegos,"Employee, firm 11-200",26,1,low
+Accountants and auditors,78021,78,Río Gallegos,"Employee, firm up to 10",93,2,low
+Accountants and auditors,78021,78,Río Gallegos,Government employee,395,7,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,"Employee, firm 11-200",284,6,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,"Employee, firm 201+",42,1,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,"Employee, firm up to 10",37,1,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,Government employee,39,1,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,Other or unknown,120,3,low
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,Self-employed or employer,382,10,low
+Accountants and auditors,42021,42,Santa Rosa-Toay,"Employee, firm 11-200",60,2,low
+Accountants and auditors,42021,42,Santa Rosa-Toay,"Employee, firm 201+",28,1,low
+Accountants and auditors,42021,42,Santa Rosa-Toay,"Employee, firm up to 10",28,1,low
+Accountants and auditors,42021,42,Santa Rosa-Toay,Government employee,273,7,low
+Accountants and auditors,42021,42,Santa Rosa-Toay,Self-employed or employer,106,3,low
+Accountants and auditors,86049,86,Santiago del Estero-La Banda,"Employee, firm 11-200",82,1,low
+Accountants and auditors,86049,86,Santiago del Estero-La Banda,Other or unknown,79,1,low
+Accountants and auditors,86049,86,Santiago del Estero-La Banda,Self-employed or employer,149,2,low
+Accountants and auditors,94015,94,Ushuaia-Río Grande,"Employee, firm 11-200",148,4,low
+Accountants and auditors,94015,94,Ushuaia-Río Grande,"Employee, firm up to 10",232,5,low
+Accountants and auditors,94015,94,Ushuaia-Río Grande,Government employee,485,8,low
+Accountants and auditors,94015,94,Ushuaia-Río Grande,Self-employed or employer,36,1,low
+Accountants and auditors,62007,62,Viedma-Carmen de Patagones,Government employee,149,5,low
+Accountants and auditors,62007,62,Viedma-Carmen de Patagones,Self-employed or employer,50,2,low
+Business and management analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 11-200",2534,4,low
+Business and management analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 201+",1144,2,low
+Business and management analysts,02007,02,Ciudad Autónoma de Buenos Aires,Other or unknown,700,1,low
+Business and management analysts,34014,34,Formosa,"Employee, firm up to 10",87,1,low
+Business and management analysts,10049,10,Gran Catamarca,"Employee, firm 11-200",27,1,low
+Business and management analysts,06441,06,Gran La Plata,Government employee,627,2,low
+Business and management analysts,50007,50,Gran Mendoza,Other or unknown,115,1,low
+Business and management analysts,30084,30,Gran Paraná,"Employee, firm up to 10",68,1,low
+Business and management analysts,70028,70,Gran San Juan,"Employee, firm 11-200",96,1,low
+Business and management analysts,82063,82,Gran Santa Fe,"Employee, firm 11-200",86,1,low
+Business and management analysts,46014,46,La Rioja,"Employee, firm up to 10",37,1,low
+Business and management analysts,46014,46,La Rioja,Government employee,84,2,low
+Business and management analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",1700,3,low
+Business and management analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",966,2,low
+Business and management analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm up to 10",396,1,low
+Business and management analysts,06427,06,Partidos del Gran Buenos Aires,Other or unknown,1091,3,low
+Business and management analysts,54028,54,Posadas,Government employee,83,1,low
+Business and management analysts,78021,78,Río Gallegos,Government employee,14,1,low
+Business and operations managers,06056,06,Bahía Blanca-Cerri,"Employee, firm 11-200",324,3,low
+Business and operations managers,06056,06,Bahía Blanca-Cerri,"Employee, firm 201+",146,1,low
+Business and operations managers,06056,06,Bahía Blanca-Cerri,Government employee,707,7,low
+Business and operations managers,06056,06,Bahía Blanca-Cerri,Self-employed or employer,142,1,low
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 11-200",8246,14,low
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 201+",15256,22,low
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,Government employee,5903,15,low
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,Other or unknown,2880,7,low
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,Self-employed or employer,2435,4,low
+Business and operations managers,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 11-200",147,1,low
+Business and operations managers,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 201+",149,2,low
+Business and operations managers,26021,26,Comodoro Rivadavia-Rada Tilly,Government employee,1463,14,low
+Business and operations managers,30015,30,Concordia,Government employee,340,14,low
+Business and operations managers,18021,18,Corrientes,Government employee,666,8,low
+Business and operations managers,34014,34,Formosa,"Employee, firm 11-200",68,1,low
+Business and operations managers,34014,34,Formosa,Government employee,135,3,low
+Business and operations managers,10049,10,Gran Catamarca,"Employee, firm 11-200",62,2,low
+Business and operations managers,10049,10,Gran Catamarca,Government employee,446,14,low
+Business and operations managers,10049,10,Gran Catamarca,Self-employed or employer,52,1,low
+Business and operations managers,14014,14,Gran Córdoba,"Employee, firm 11-200",1423,5,low
+Business and operations managers,14014,14,Gran Córdoba,"Employee, firm 201+",755,3,low
+Business and operations managers,14014,14,Gran Córdoba,"Employee, firm up to 10",123,1,low
+Business and operations managers,14014,14,Gran Córdoba,Government employee,1437,8,low
+Business and operations managers,06441,06,Gran La Plata,"Employee, firm 11-200",1033,4,low
+Business and operations managers,06441,06,Gran La Plata,Government employee,2674,10,low
+Business and operations managers,06441,06,Gran La Plata,Other or unknown,292,1,low
+Business and operations managers,50007,50,Gran Mendoza,"Employee, firm 11-200",328,3,low
+Business and operations managers,50007,50,Gran Mendoza,"Employee, firm 201+",408,4,low
+Business and operations managers,50007,50,Gran Mendoza,Government employee,1158,8,low
+Business and operations managers,50007,50,Gran Mendoza,Other or unknown,624,4,low
+Business and operations managers,50007,50,Gran Mendoza,Self-employed or employer,1102,7,low
+Business and operations managers,30084,30,Gran Paraná,Government employee,858,16,low
+Business and operations managers,30084,30,Gran Paraná,Self-employed or employer,104,2,low
+Business and operations managers,22140,22,Gran Resistencia,"Employee, firm 11-200",82,1,low
+Business and operations managers,22140,22,Gran Resistencia,Government employee,438,6,low
+Business and operations managers,22140,22,Gran Resistencia,Self-employed or employer,60,1,low
+Business and operations managers,82084,82,Gran Rosario,"Employee, firm 11-200",1283,6,low
+Business and operations managers,82084,82,Gran Rosario,"Employee, firm 201+",1129,5,low
+Business and operations managers,82084,82,Gran Rosario,Government employee,804,4,low
+Business and operations managers,82084,82,Gran Rosario,Self-employed or employer,2314,9,low
+Business and operations managers,66028,66,Gran Salta,"Employee, firm 11-200",380,4,low
+Business and operations managers,66028,66,Gran Salta,"Employee, firm 201+",110,2,low
+Business and operations managers,66028,66,Gran Salta,Government employee,622,7,low
+Business and operations managers,66028,66,Gran Salta,Other or unknown,120,1,low
+Business and operations managers,66028,66,Gran Salta,Self-employed or employer,291,3,low
+Business and operations managers,70028,70,Gran San Juan,"Employee, firm 11-200",640,5,low
+Business and operations managers,70028,70,Gran San Juan,Government employee,802,8,low
+Business and operations managers,70028,70,Gran San Juan,Self-employed or employer,156,1,low
+Business and operations managers,74056,74,Gran San Luis,"Employee, firm 11-200",343,6,low
+Business and operations managers,74056,74,Gran San Luis,"Employee, firm 201+",101,1,low
+Business and operations managers,74056,74,Gran San Luis,Government employee,364,8,low
+Business and operations managers,74056,74,Gran San Luis,Self-employed or employer,195,2,low
+Business and operations managers,82063,82,Gran Santa Fe,"Employee, firm 11-200",114,1,low
+Business and operations managers,82063,82,Gran Santa Fe,Government employee,1321,15,low
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 11-200",395,3,low
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 201+",304,3,low
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,Government employee,1474,14,low
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,Other or unknown,204,2,low
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,Self-employed or employer,495,4,low
+Business and operations managers,38021,38,Jujuy-Palpalá,"Employee, firm 11-200",93,2,low
+Business and operations managers,38021,38,Jujuy-Palpalá,Government employee,484,11,low
+Business and operations managers,38021,38,Jujuy-Palpalá,Self-employed or employer,70,1,low
+Business and operations managers,46014,46,La Rioja,"Employee, firm 11-200",36,1,low
+Business and operations managers,46014,46,La Rioja,Government employee,348,7,low
+Business and operations managers,06357,06,Mar del Plata,"Employee, firm 11-200",507,4,low
+Business and operations managers,06357,06,Mar del Plata,"Employee, firm 201+",126,1,low
+Business and operations managers,06357,06,Mar del Plata,Government employee,679,4,low
+Business and operations managers,06357,06,Mar del Plata,Other or unknown,199,2,low
+Business and operations managers,06357,06,Mar del Plata,Self-employed or employer,1069,6,low
+Business and operations managers,58035,58,Neuquén-Plottier,"Employee, firm 11-200",463,3,low
+Business and operations managers,58035,58,Neuquén-Plottier,Government employee,1004,14,low
+Business and operations managers,58035,58,Neuquén-Plottier,Self-employed or employer,212,2,low
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",11469,20,low
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",7165,11,low
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,Government employee,10163,18,low
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,Other or unknown,2208,6,low
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,Self-employed or employer,4961,14,low
+Business and operations managers,54028,54,Posadas,"Employee, firm 11-200",147,2,low
+Business and operations managers,54028,54,Posadas,"Employee, firm 201+",68,1,low
+Business and operations managers,54028,54,Posadas,Government employee,684,10,low
+Business and operations managers,26077,26,Rawson-Trelew,Government employee,721,15,low
+Business and operations managers,26077,26,Rawson-Trelew,Self-employed or employer,46,1,low
+Business and operations managers,14098,14,Río Cuarto,"Employee, firm 11-200",118,3,low
+Business and operations managers,14098,14,Río Cuarto,"Employee, firm 201+",32,1,low
+Business and operations managers,14098,14,Río Cuarto,Government employee,140,4,low
+Business and operations managers,14098,14,Río Cuarto,Self-employed or employer,78,2,low
+Business and operations managers,78021,78,Río Gallegos,"Employee, firm 11-200",177,4,low
+Business and operations managers,78021,78,Río Gallegos,Government employee,669,14,low
+Business and operations managers,78021,78,Río Gallegos,Self-employed or employer,36,1,low
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,"Employee, firm 11-200",166,4,low
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,"Employee, firm 201+",46,1,low
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,Government employee,186,5,low
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,Other or unknown,106,2,low
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,Self-employed or employer,135,3,low
+Business and operations managers,42021,42,Santa Rosa-Toay,"Employee, firm 11-200",90,3,low
+Business and operations managers,42021,42,Santa Rosa-Toay,Government employee,361,7,low
+Business and operations managers,42021,42,Santa Rosa-Toay,Other or unknown,32,1,low
+Business and operations managers,42021,42,Santa Rosa-Toay,Self-employed or employer,36,1,low
+Business and operations managers,86049,86,Santiago del Estero-La Banda,Government employee,455,6,low
+Business and operations managers,94015,94,Ushuaia-Río Grande,"Employee, firm 11-200",183,4,low
+Business and operations managers,94015,94,Ushuaia-Río Grande,"Employee, firm 201+",19,1,low
+Business and operations managers,94015,94,Ushuaia-Río Grande,Government employee,1089,25,low
+Business and operations managers,62007,62,Viedma-Carmen de Patagones,"Employee, firm 11-200",56,2,low
+Business and operations managers,62007,62,Viedma-Carmen de Patagones,Government employee,140,7,low
+Engineers (non-ICT),06056,06,Bahía Blanca-Cerri,Self-employed or employer,175,2,low
+Engineers (non-ICT),26021,26,Comodoro Rivadavia-Rada Tilly,Government employee,84,1,low
+Engineers (non-ICT),30015,30,Concordia,Self-employed or employer,58,2,low
+Engineers (non-ICT),14014,14,Gran Córdoba,Self-employed or employer,252,1,low
+Engineers (non-ICT),06441,06,Gran La Plata,Self-employed or employer,147,1,low
+Engineers (non-ICT),50007,50,Gran Mendoza,"Employee, firm 11-200",268,2,low
+Engineers (non-ICT),66028,66,Gran Salta,"Employee, firm 11-200",220,3,low
+Engineers (non-ICT),66028,66,Gran Salta,Government employee,109,1,low
+Engineers (non-ICT),66028,66,Gran Salta,Self-employed or employer,78,1,low
+Engineers (non-ICT),70028,70,Gran San Juan,"Employee, firm up to 10",194,1,low
+Engineers (non-ICT),70028,70,Gran San Juan,Government employee,176,1,low
+Engineers (non-ICT),74056,74,Gran San Luis,Other or unknown,31,1,low
+Engineers (non-ICT),74056,74,Gran San Luis,Self-employed or employer,40,1,low
+Engineers (non-ICT),82063,82,Gran Santa Fe,Self-employed or employer,128,1,low
+Engineers (non-ICT),90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 11-200",112,1,low
+Engineers (non-ICT),90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 201+",68,1,low
+Engineers (non-ICT),90084,90,Gran Tucumán-Tafí Viejo,Self-employed or employer,103,1,low
+Engineers (non-ICT),38021,38,Jujuy-Palpalá,Government employee,47,1,low
+Engineers (non-ICT),06357,06,Mar del Plata,"Employee, firm up to 10",130,1,low
+Engineers (non-ICT),06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",410,1,low
+Engineers (non-ICT),06427,06,Partidos del Gran Buenos Aires,Self-employed or employer,2494,3,low
+Engineers (non-ICT),26077,26,Rawson-Trelew,"Employee, firm 11-200",57,1,low
+Engineers (non-ICT),14098,14,Río Cuarto,"Employee, firm 11-200",158,4,low
+Engineers (non-ICT),78021,78,Río Gallegos,Government employee,30,1,low
+Engineers (non-ICT),06763,06,San Nicolás-Villa Constitución,"Employee, firm 201+",37,1,low
+Engineers (non-ICT),06763,06,San Nicolás-Villa Constitución,Other or unknown,44,1,low
+Finance and investment analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm up to 10",636,1,low
+Finance and investment analysts,18021,18,Corrientes,Government employee,99,1,low
+Finance and investment analysts,74056,74,Gran San Luis,"Employee, firm 11-200",40,1,low
+Finance and investment analysts,06357,06,Mar del Plata,Other or unknown,220,1,low
+Finance and investment analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm up to 10",1888,2,low
+Finance and investment analysts,06427,06,Partidos del Gran Buenos Aires,Other or unknown,353,1,low
+Finance and investment analysts,26077,26,Rawson-Trelew,Other or unknown,82,1,low
+Finance and investment analysts,94015,94,Ushuaia-Río Grande,"Employee, firm 11-200",21,1,low
+Higher-education and IT educators,06056,06,Bahía Blanca-Cerri,Government employee,322,3,low
+Higher-education and IT educators,02007,02,Ciudad Autónoma de Buenos Aires,Government employee,670,3,low
+Higher-education and IT educators,26021,26,Comodoro Rivadavia-Rada Tilly,Government employee,124,1,low
+Higher-education and IT educators,30015,30,Concordia,Government employee,44,2,low
+Higher-education and IT educators,18021,18,Corrientes,Government employee,104,2,low
+Higher-education and IT educators,10049,10,Gran Catamarca,Government employee,23,1,low
+Higher-education and IT educators,14014,14,Gran Córdoba,Government employee,297,1,low
+Higher-education and IT educators,06441,06,Gran La Plata,"Employee, firm 11-200",228,1,low
+Higher-education and IT educators,06441,06,Gran La Plata,"Employee, firm 201+",418,1,low
+Higher-education and IT educators,06441,06,Gran La Plata,Government employee,2482,6,low
+Higher-education and IT educators,50007,50,Gran Mendoza,"Employee, firm 11-200",216,2,low
+Higher-education and IT educators,50007,50,Gran Mendoza,Government employee,866,5,low
+Higher-education and IT educators,50007,50,Gran Mendoza,Other or unknown,228,1,low
+Higher-education and IT educators,30084,30,Gran Paraná,Other or unknown,44,1,low
+Higher-education and IT educators,22140,22,Gran Resistencia,Government employee,326,5,low
+Higher-education and IT educators,82084,82,Gran Rosario,Government employee,196,1,low
+Higher-education and IT educators,70028,70,Gran San Juan,Government employee,140,2,low
+Higher-education and IT educators,74056,74,Gran San Luis,Government employee,87,2,low
+Higher-education and IT educators,82063,82,Gran Santa Fe,Government employee,850,7,low
+Higher-education and IT educators,38021,38,Jujuy-Palpalá,"Employee, firm 11-200",71,1,low
+Higher-education and IT educators,38021,38,Jujuy-Palpalá,Government employee,39,1,low
+Higher-education and IT educators,06357,06,Mar del Plata,"Employee, firm 11-200",142,1,low
+Higher-education and IT educators,06357,06,Mar del Plata,Government employee,213,1,low
+Higher-education and IT educators,58035,58,Neuquén-Plottier,"Employee, firm 11-200",185,2,low
+Higher-education and IT educators,58035,58,Neuquén-Plottier,Government employee,68,1,low
+Higher-education and IT educators,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",1176,2,low
+Higher-education and IT educators,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",627,1,low
+Higher-education and IT educators,06427,06,Partidos del Gran Buenos Aires,Government employee,2884,5,low
+Higher-education and IT educators,06427,06,Partidos del Gran Buenos Aires,Other or unknown,445,1,low
+Higher-education and IT educators,54028,54,Posadas,"Employee, firm 11-200",106,1,low
+Higher-education and IT educators,54028,54,Posadas,Government employee,102,1,low
+Higher-education and IT educators,14098,14,Río Cuarto,Government employee,128,4,low
+Higher-education and IT educators,06763,06,San Nicolás-Villa Constitución,Government employee,32,1,low
+Higher-education and IT educators,42021,42,Santa Rosa-Toay,Government employee,60,1,low
+Higher-education and IT educators,86049,86,Santiago del Estero-La Banda,Government employee,93,1,low
+Higher-education and IT educators,94015,94,Ushuaia-Río Grande,Government employee,56,1,low
+Higher-education and IT educators,62007,62,Viedma-Carmen de Patagones,Government employee,60,2,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,"Employee, firm 11-200",67,1,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,"Employee, firm 201+",171,2,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,"Employee, firm up to 10",98,1,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,Government employee,69,1,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,Other or unknown,96,1,low
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,Self-employed or employer,384,4,low
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 11-200",6536,12,low
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 201+",2091,4,low
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm up to 10",3282,8,low
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,Other or unknown,5888,12,low
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,Self-employed or employer,6034,12,low
+ICT technicians and user support,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 11-200",339,4,low
+ICT technicians and user support,26021,26,Comodoro Rivadavia-Rada Tilly,Self-employed or employer,186,2,low
+ICT technicians and user support,30015,30,Concordia,"Employee, firm 11-200",54,2,low
+ICT technicians and user support,30015,30,Concordia,"Employee, firm 201+",40,2,low
+ICT technicians and user support,30015,30,Concordia,"Employee, firm up to 10",96,3,low
+ICT technicians and user support,30015,30,Concordia,Government employee,28,1,low
+ICT technicians and user support,30015,30,Concordia,Self-employed or employer,111,4,low
+ICT technicians and user support,18021,18,Corrientes,"Employee, firm 11-200",96,1,low
+ICT technicians and user support,18021,18,Corrientes,Government employee,143,1,low
+ICT technicians and user support,18021,18,Corrientes,Other or unknown,191,1,low
+ICT technicians and user support,18021,18,Corrientes,Self-employed or employer,267,1,low
+ICT technicians and user support,34014,34,Formosa,Government employee,80,2,low
+ICT technicians and user support,34014,34,Formosa,Self-employed or employer,56,1,low
+ICT technicians and user support,10049,10,Gran Catamarca,"Employee, firm 11-200",62,2,low
+ICT technicians and user support,10049,10,Gran Catamarca,"Employee, firm 201+",34,1,low
+ICT technicians and user support,10049,10,Gran Catamarca,"Employee, firm up to 10",62,2,low
+ICT technicians and user support,10049,10,Gran Catamarca,Government employee,137,4,low
+ICT technicians and user support,10049,10,Gran Catamarca,Self-employed or employer,27,1,low
+ICT technicians and user support,14014,14,Gran Córdoba,"Employee, firm 11-200",1616,7,low
+ICT technicians and user support,14014,14,Gran Córdoba,"Employee, firm 201+",1706,8,low
+ICT technicians and user support,14014,14,Gran Córdoba,"Employee, firm up to 10",950,4,low
+ICT technicians and user support,14014,14,Gran Córdoba,Government employee,261,1,low
+ICT technicians and user support,14014,14,Gran Córdoba,Other or unknown,1491,7,low
+ICT technicians and user support,14014,14,Gran Córdoba,Self-employed or employer,756,4,low
+ICT technicians and user support,06441,06,Gran La Plata,"Employee, firm 201+",733,2,low
+ICT technicians and user support,06441,06,Gran La Plata,"Employee, firm up to 10",234,1,low
+ICT technicians and user support,06441,06,Gran La Plata,Government employee,685,3,low
+ICT technicians and user support,06441,06,Gran La Plata,Self-employed or employer,793,4,low
+ICT technicians and user support,50007,50,Gran Mendoza,"Employee, firm 11-200",819,5,low
+ICT technicians and user support,50007,50,Gran Mendoza,Government employee,145,1,low
+ICT technicians and user support,50007,50,Gran Mendoza,Other or unknown,1432,10,low
+ICT technicians and user support,50007,50,Gran Mendoza,Self-employed or employer,871,9,low
+ICT technicians and user support,30084,30,Gran Paraná,"Employee, firm 11-200",114,2,low
+ICT technicians and user support,30084,30,Gran Paraná,"Employee, firm 201+",44,1,low
+ICT technicians and user support,30084,30,Gran Paraná,"Employee, firm up to 10",112,2,low
+ICT technicians and user support,30084,30,Gran Paraná,Government employee,156,2,low
+ICT technicians and user support,30084,30,Gran Paraná,Other or unknown,223,4,low
+ICT technicians and user support,30084,30,Gran Paraná,Self-employed or employer,195,3,low
+ICT technicians and user support,22140,22,Gran Resistencia,"Employee, firm up to 10",439,3,low
+ICT technicians and user support,22140,22,Gran Resistencia,Other or unknown,303,2,low
+ICT technicians and user support,22140,22,Gran Resistencia,Self-employed or employer,226,3,low
+ICT technicians and user support,82084,82,Gran Rosario,"Employee, firm 11-200",580,3,low
+ICT technicians and user support,82084,82,Gran Rosario,"Employee, firm 201+",797,2,low
+ICT technicians and user support,82084,82,Gran Rosario,"Employee, firm up to 10",266,1,low
+ICT technicians and user support,82084,82,Gran Rosario,Other or unknown,1398,5,low
+ICT technicians and user support,82084,82,Gran Rosario,Self-employed or employer,738,4,low
+ICT technicians and user support,66028,66,Gran Salta,"Employee, firm 11-200",236,3,low
+ICT technicians and user support,66028,66,Gran Salta,"Employee, firm 201+",103,1,low
+ICT technicians and user support,66028,66,Gran Salta,Government employee,221,2,low
+ICT technicians and user support,66028,66,Gran Salta,Other or unknown,250,3,low
+ICT technicians and user support,66028,66,Gran Salta,Self-employed or employer,52,1,low
+ICT technicians and user support,70028,70,Gran San Juan,"Employee, firm 11-200",415,4,low
+ICT technicians and user support,70028,70,Gran San Juan,"Employee, firm up to 10",202,2,low
+ICT technicians and user support,70028,70,Gran San Juan,Government employee,369,3,low
+ICT technicians and user support,70028,70,Gran San Juan,Other or unknown,88,1,low
+ICT technicians and user support,70028,70,Gran San Juan,Self-employed or employer,478,5,low
+ICT technicians and user support,74056,74,Gran San Luis,"Employee, firm 11-200",129,3,low
+ICT technicians and user support,74056,74,Gran San Luis,"Employee, firm 201+",72,1,low
+ICT technicians and user support,74056,74,Gran San Luis,Government employee,83,2,low
+ICT technicians and user support,74056,74,Gran San Luis,Self-employed or employer,253,4,low
+ICT technicians and user support,82063,82,Gran Santa Fe,"Employee, firm 11-200",195,2,low
+ICT technicians and user support,82063,82,Gran Santa Fe,"Employee, firm 201+",80,1,low
+ICT technicians and user support,82063,82,Gran Santa Fe,"Employee, firm up to 10",348,4,low
+ICT technicians and user support,82063,82,Gran Santa Fe,Other or unknown,62,1,low
+ICT technicians and user support,82063,82,Gran Santa Fe,Self-employed or employer,142,2,low
+ICT technicians and user support,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 11-200",318,3,low
+ICT technicians and user support,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 201+",295,2,low
+ICT technicians and user support,90084,90,Gran Tucumán-Tafí Viejo,Other or unknown,264,3,low
+ICT technicians and user support,90084,90,Gran Tucumán-Tafí Viejo,Self-employed or employer,654,6,low
+ICT technicians and user support,38021,38,Jujuy-Palpalá,"Employee, firm 11-200",224,4,low
+ICT technicians and user support,38021,38,Jujuy-Palpalá,"Employee, firm up to 10",176,3,low
+ICT technicians and user support,38021,38,Jujuy-Palpalá,Self-employed or employer,662,7,low
+ICT technicians and user support,46014,46,La Rioja,"Employee, firm 11-200",144,4,low
+ICT technicians and user support,46014,46,La Rioja,"Employee, firm up to 10",80,2,low
+ICT technicians and user support,46014,46,La Rioja,Government employee,276,5,low
+ICT technicians and user support,46014,46,La Rioja,Self-employed or employer,82,2,low
+ICT technicians and user support,06357,06,Mar del Plata,"Employee, firm 11-200",159,1,low
+ICT technicians and user support,06357,06,Mar del Plata,"Employee, firm 201+",416,2,low
+ICT technicians and user support,06357,06,Mar del Plata,"Employee, firm up to 10",745,4,low
+ICT technicians and user support,06357,06,Mar del Plata,Other or unknown,294,3,low
+ICT technicians and user support,06357,06,Mar del Plata,Self-employed or employer,758,4,low
+ICT technicians and user support,58035,58,Neuquén-Plottier,Government employee,187,1,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",7480,14,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",4838,9,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,"Employee, firm up to 10",1890,5,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,Government employee,1702,3,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,Other or unknown,11332,20,low
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,Self-employed or employer,5864,14,low
+ICT technicians and user support,54028,54,Posadas,"Employee, firm 11-200",266,4,low
+ICT technicians and user support,54028,54,Posadas,Government employee,76,1,low
+ICT technicians and user support,54028,54,Posadas,Other or unknown,428,5,low
+ICT technicians and user support,54028,54,Posadas,Self-employed or employer,102,1,low
+ICT technicians and user support,26077,26,Rawson-Trelew,"Employee, firm 11-200",90,2,low
+ICT technicians and user support,26077,26,Rawson-Trelew,Government employee,149,4,low
+ICT technicians and user support,26077,26,Rawson-Trelew,Other or unknown,49,1,low
+ICT technicians and user support,26077,26,Rawson-Trelew,Self-employed or employer,189,4,low
+ICT technicians and user support,14098,14,Río Cuarto,Government employee,31,1,low
+ICT technicians and user support,14098,14,Río Cuarto,Self-employed or employer,266,5,low
+ICT technicians and user support,78021,78,Río Gallegos,"Employee, firm 201+",32,1,low
+ICT technicians and user support,78021,78,Río Gallegos,Government employee,107,2,low
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,"Employee, firm 11-200",87,3,low
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,"Employee, firm 201+",40,1,low
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,"Employee, firm up to 10",101,3,low
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,Other or unknown,47,2,low
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,Self-employed or employer,65,2,low
+ICT technicians and user support,42021,42,Santa Rosa-Toay,"Employee, firm up to 10",26,1,low
+ICT technicians and user support,42021,42,Santa Rosa-Toay,Government employee,134,3,low
+ICT technicians and user support,42021,42,Santa Rosa-Toay,Other or unknown,234,3,low
+ICT technicians and user support,42021,42,Santa Rosa-Toay,Self-employed or employer,148,4,low
+ICT technicians and user support,86049,86,Santiago del Estero-La Banda,"Employee, firm up to 10",52,1,low
+ICT technicians and user support,86049,86,Santiago del Estero-La Banda,Self-employed or employer,76,1,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,"Employee, firm 11-200",75,3,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,"Employee, firm 201+",38,1,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,"Employee, firm up to 10",86,3,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,Government employee,118,3,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,Other or unknown,82,1,low
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,Self-employed or employer,126,2,low
+ICT technicians and user support,62007,62,Viedma-Carmen de Patagones,Government employee,15,1,low
+ICT technicians and user support,62007,62,Viedma-Carmen de Patagones,Self-employed or employer,86,2,low
+Software developers and analysts,06056,06,Bahía Blanca-Cerri,"Employee, firm 11-200",87,1,low
+Software developers and analysts,06056,06,Bahía Blanca-Cerri,"Employee, firm 201+",110,1,low
+Software developers and analysts,06056,06,Bahía Blanca-Cerri,Government employee,78,1,low
+Software developers and analysts,06056,06,Bahía Blanca-Cerri,Self-employed or employer,94,1,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 11-200",5810,10,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm 201+",7300,16,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,"Employee, firm up to 10",1334,4,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,Government employee,2811,6,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,Other or unknown,4090,8,low
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,Self-employed or employer,5594,9,low
+Software developers and analysts,26021,26,Comodoro Rivadavia-Rada Tilly,"Employee, firm 11-200",230,3,low
+Software developers and analysts,30015,30,Concordia,"Employee, firm 11-200",47,2,low
+Software developers and analysts,30015,30,Concordia,"Employee, firm up to 10",78,3,low
+Software developers and analysts,30015,30,Concordia,Government employee,24,1,low
+Software developers and analysts,30015,30,Concordia,Self-employed or employer,44,2,low
+Software developers and analysts,18021,18,Corrientes,"Employee, firm 11-200",64,1,low
+Software developers and analysts,18021,18,Corrientes,Government employee,91,1,low
+Software developers and analysts,18021,18,Corrientes,Other or unknown,60,1,low
+Software developers and analysts,34014,34,Formosa,Government employee,115,3,low
+Software developers and analysts,34014,34,Formosa,Self-employed or employer,90,2,low
+Software developers and analysts,10049,10,Gran Catamarca,"Employee, firm 11-200",28,1,low
+Software developers and analysts,10049,10,Gran Catamarca,Government employee,199,5,low
+Software developers and analysts,10049,10,Gran Catamarca,Other or unknown,42,1,low
+Software developers and analysts,14014,14,Gran Córdoba,"Employee, firm 11-200",1476,6,low
+Software developers and analysts,14014,14,Gran Córdoba,"Employee, firm 201+",1594,5,low
+Software developers and analysts,14014,14,Gran Córdoba,"Employee, firm up to 10",526,3,low
+Software developers and analysts,14014,14,Gran Córdoba,Government employee,858,3,low
+Software developers and analysts,14014,14,Gran Córdoba,Other or unknown,352,1,low
+Software developers and analysts,14014,14,Gran Córdoba,Self-employed or employer,833,3,low
+Software developers and analysts,06441,06,Gran La Plata,"Employee, firm 11-200",1190,3,low
+Software developers and analysts,06441,06,Gran La Plata,"Employee, firm 201+",452,2,low
+Software developers and analysts,06441,06,Gran La Plata,"Employee, firm up to 10",780,4,low
+Software developers and analysts,06441,06,Gran La Plata,Government employee,643,1,low
+Software developers and analysts,06441,06,Gran La Plata,Other or unknown,772,2,low
+Software developers and analysts,50007,50,Gran Mendoza,"Employee, firm 11-200",560,3,low
+Software developers and analysts,50007,50,Gran Mendoza,Government employee,352,2,low
+Software developers and analysts,50007,50,Gran Mendoza,Other or unknown,484,4,low
+Software developers and analysts,50007,50,Gran Mendoza,Self-employed or employer,114,1,low
+Software developers and analysts,30084,30,Gran Paraná,"Employee, firm 11-200",114,2,low
+Software developers and analysts,30084,30,Gran Paraná,"Employee, firm 201+",109,1,low
+Software developers and analysts,30084,30,Gran Paraná,"Employee, firm up to 10",62,1,low
+Software developers and analysts,30084,30,Gran Paraná,Government employee,90,1,low
+Software developers and analysts,30084,30,Gran Paraná,Other or unknown,184,4,low
+Software developers and analysts,30084,30,Gran Paraná,Self-employed or employer,38,1,low
+Software developers and analysts,22140,22,Gran Resistencia,"Employee, firm up to 10",78,1,low
+Software developers and analysts,22140,22,Gran Resistencia,Government employee,205,2,low
+Software developers and analysts,82084,82,Gran Rosario,"Employee, firm 11-200",775,4,low
+Software developers and analysts,82084,82,Gran Rosario,"Employee, firm 201+",894,4,low
+Software developers and analysts,82084,82,Gran Rosario,"Employee, firm up to 10",228,1,low
+Software developers and analysts,82084,82,Gran Rosario,Other or unknown,225,1,low
+Software developers and analysts,82084,82,Gran Rosario,Self-employed or employer,376,2,low
+Software developers and analysts,66028,66,Gran Salta,"Employee, firm 11-200",91,1,low
+Software developers and analysts,66028,66,Gran Salta,"Employee, firm 201+",357,4,low
+Software developers and analysts,66028,66,Gran Salta,"Employee, firm up to 10",65,1,low
+Software developers and analysts,66028,66,Gran Salta,Other or unknown,56,1,low
+Software developers and analysts,66028,66,Gran Salta,Self-employed or employer,64,1,low
+Software developers and analysts,70028,70,Gran San Juan,"Employee, firm 11-200",172,1,low
+Software developers and analysts,70028,70,Gran San Juan,Government employee,245,3,low
+Software developers and analysts,74056,74,Gran San Luis,"Employee, firm 11-200",41,1,low
+Software developers and analysts,74056,74,Gran San Luis,Government employee,81,2,low
+Software developers and analysts,74056,74,Gran San Luis,Other or unknown,79,2,low
+Software developers and analysts,74056,74,Gran San Luis,Self-employed or employer,182,2,low
+Software developers and analysts,82063,82,Gran Santa Fe,"Employee, firm 11-200",244,2,low
+Software developers and analysts,82063,82,Gran Santa Fe,"Employee, firm 201+",515,3,low
+Software developers and analysts,82063,82,Gran Santa Fe,"Employee, firm up to 10",380,3,low
+Software developers and analysts,82063,82,Gran Santa Fe,Government employee,678,5,low
+Software developers and analysts,82063,82,Gran Santa Fe,Self-employed or employer,80,1,low
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 11-200",415,2,low
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,"Employee, firm 201+",227,2,low
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,Government employee,235,2,low
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,Other or unknown,330,3,low
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,Self-employed or employer,343,3,low
+Software developers and analysts,38021,38,Jujuy-Palpalá,"Employee, firm 11-200",136,2,low
+Software developers and analysts,38021,38,Jujuy-Palpalá,Self-employed or employer,108,2,low
+Software developers and analysts,46014,46,La Rioja,"Employee, firm 11-200",75,2,low
+Software developers and analysts,46014,46,La Rioja,"Employee, firm up to 10",49,1,low
+Software developers and analysts,46014,46,La Rioja,Government employee,138,3,low
+Software developers and analysts,46014,46,La Rioja,Self-employed or employer,46,1,low
+Software developers and analysts,06357,06,Mar del Plata,"Employee, firm up to 10",162,1,low
+Software developers and analysts,06357,06,Mar del Plata,Other or unknown,246,2,low
+Software developers and analysts,06357,06,Mar del Plata,Self-employed or employer,421,2,low
+Software developers and analysts,58035,58,Neuquén-Plottier,"Employee, firm 11-200",141,2,low
+Software developers and analysts,58035,58,Neuquén-Plottier,"Employee, firm 201+",49,1,low
+Software developers and analysts,58035,58,Neuquén-Plottier,Government employee,110,2,low
+Software developers and analysts,58035,58,Neuquén-Plottier,Self-employed or employer,43,1,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 11-200",7262,13,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm 201+",6838,12,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,"Employee, firm up to 10",2456,4,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,Government employee,5610,9,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,Other or unknown,1695,5,low
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,Self-employed or employer,1507,3,low
+Software developers and analysts,54028,54,Posadas,"Employee, firm 11-200",144,2,low
+Software developers and analysts,54028,54,Posadas,Government employee,62,1,low
+Software developers and analysts,54028,54,Posadas,Other or unknown,196,2,low
+Software developers and analysts,26077,26,Rawson-Trelew,"Employee, firm 11-200",71,1,low
+Software developers and analysts,26077,26,Rawson-Trelew,Government employee,229,4,low
+Software developers and analysts,26077,26,Rawson-Trelew,Self-employed or employer,51,1,low
+Software developers and analysts,14098,14,Río Cuarto,"Employee, firm 11-200",116,3,low
+Software developers and analysts,14098,14,Río Cuarto,"Employee, firm up to 10",60,1,low
+Software developers and analysts,14098,14,Río Cuarto,Other or unknown,24,1,low
+Software developers and analysts,14098,14,Río Cuarto,Self-employed or employer,94,2,low
+Software developers and analysts,78021,78,Río Gallegos,Self-employed or employer,24,1,low
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,"Employee, firm 11-200",40,1,low
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,"Employee, firm 201+",74,2,low
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,"Employee, firm up to 10",37,1,low
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,Other or unknown,30,1,low
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,Self-employed or employer,85,2,low
+Software developers and analysts,42021,42,Santa Rosa-Toay,"Employee, firm 11-200",68,1,low
+Software developers and analysts,42021,42,Santa Rosa-Toay,"Employee, firm up to 10",52,2,low
+Software developers and analysts,42021,42,Santa Rosa-Toay,Government employee,34,1,low
+Software developers and analysts,42021,42,Santa Rosa-Toay,Self-employed or employer,34,1,low
+Software developers and analysts,86049,86,Santiago del Estero-La Banda,Government employee,44,1,low
+Software developers and analysts,86049,86,Santiago del Estero-La Banda,Other or unknown,67,1,low
+Software developers and analysts,86049,86,Santiago del Estero-La Banda,Self-employed or employer,93,1,low
+Software developers and analysts,94015,94,Ushuaia-Río Grande,Government employee,92,2,low
+Software developers and analysts,62007,62,Viedma-Carmen de Patagones,Government employee,94,3,low
+Software developers and analysts,62007,62,Viedma-Carmen de Patagones,Self-employed or employer,62,2,low

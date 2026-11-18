@@ -1,0 +1,71 @@
+{
+ "country": "AR",
+ "layer": "B",
+ "source_id": "SRC_SO_2025",
+ "survey": "Stack Overflow Developer Survey",
+ "survey_year": 2025,
+ "source": {
+  "repository": "https://github.com/StackExchange/Survey",
+  "commit": "c9c23dc6f385d5be1a3011c238deb6c23b617e93",
+  "path": "packages/archive/2025/results.csv",
+  "sha256": "2d1f65308877282edfb4470520eabbc08cb499118432a3dcec6a66c086aa2baa",
+  "official_aggregate": {
+   "file": "ai.json",
+   "sha256": "fb2d797e08185eba13136835ba439e43d4ba3ed33a97c47ca93b5cf7434c01c8"
+  }
+ },
+ "engine": {
+  "script": "scripts/build-argentina-b-survey.py",
+  "note": "Re-implementation of the Peru/Mexico layer_b_engine.py rules; run with Mexico as focus it reproduces the 1,264 indicator rows, 280 distribution rows and 8 group rows of the Mexico package exactly."
+ },
+ "headline": {
+  "B1": {
+   "item": "Uses AI tools (daily, weekly or monthly/infrequently)",
+   "proportion": 0.8666666666666667,
+   "numerator": "182",
+   "valid_n": "210",
+   "ci_95": [
+    "0.8140447305364404",
+    "0.9061149655734186"
+   ]
+  },
+  "B2": {
+   "item": "Uses AI tools daily",
+   "proportion": 0.5523809523809524,
+   "numerator": "116",
+   "valid_n": "210",
+   "ci_95": [
+    "0.48478707885782335",
+    "0.6180928777292994"
+   ]
+  },
+  "B3": {
+   "item": "Uses AI agents at work (daily, weekly or monthly/infrequently)",
+   "proportion": 0.3010204081632653,
+   "numerator": "59",
+   "valid_n": "196",
+   "ci_95": [
+    "0.24113354715711333",
+    "0.36855705227958935"
+   ]
+  }
+ },
+ "B5_respondents": 222,
+ "B5_confidence": "low (below 300)",
+ "checks": {
+  "mexico_package_reproduction": {
+   "indicator_rows": 1264,
+   "distribution_rows": 280,
+   "group_rows": 8,
+   "differences": 0
+  },
+  "argentina_rows_in_mexico_package": {
+   "note": "The Mexico package already published Argentina as a comparison group (158 rows); the AR all-respondents rows here are the same cells."
+  }
+ },
+ "notes": {
+  "edition": "2025 edition, the same file as Colombia's template example and the Peru and Mexico packages, so the countries compare on one survey.",
+  "comparison_groups": "Argentina, Argentina professional developers, LATAM excluding Argentina (18 countries), global, and Brazil, Mexico, Colombia and Chile."
+ },
+ "limitations": "Self-selected online survey: unweighted, not representative of all developers in Argentina. Cells with fewer than 30 valid answers are suppressed (empty), never zero."
+}

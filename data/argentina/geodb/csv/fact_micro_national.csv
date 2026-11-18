@@ -1,0 +1,67 @@
+dimension,category,micro_businesses,pct
+total,micro_businesses,3586166,100.0
+activity,Wholesale and retail trade,1092928,30.5
+activity,Construction,491403,13.7
+activity,Manufacturing,408351,11.4
+activity,Other services,366413,10.2
+activity,"Professional, scientific and technical services",258564,7.2
+activity,Transport and storage,193446,5.4
+activity,Accommodation and food,177827,5.0
+activity,Health and social work,162088,4.5
+activity,Administrative services,128426,3.6
+activity,Education,89932,2.5
+activity,Information and communication (tech sector: CAES J),52498,1.5
+activity,Arts and recreation,51590,1.4
+activity,Real estate,31454,0.9
+activity,Finance and insurance,24720,0.7
+activity,"Agriculture, forestry and fishing",14598,0.4
+activity,Extraterritorial,14089,0.4
+activity,Water and waste,11142,0.3
+activity,Electricity and gas,3625,0.1
+activity,Households as employers,2173,0.1
+activity,Mining,432,0.0
+activity,Public administration,199,0.0
+activity,Not specified,10266,0.3
+position,Own-account worker,3202452,89.3
+position,Employer,383714,10.7
+owner_sex,Men,2116032,59.0
+owner_sex,Women,1470134,41.0
+owner_age,35-44,867477,24.2
+owner_age,45-54,837317,23.3
+owner_age,25-34,678886,18.9
+owner_age,55-64,617058,17.2
+owner_age,65+,341230,9.5
+owner_age,Up to 24,244198,6.8
+size,1 person,2502803,69.8
+size,2-5 people,1002582,28.0
+size,6-10 people,80781,2.3
+informal_employment,Informal,2132000,59.5
+informal_employment,Formal,1439528,40.1
+informal_employment,Not specified,14637,0.4
+contributions,No contributions,2186721,61.0
+contributions,Monotributo,1136108,31.7
+contributions,Autónomo or professional fund,232655,6.5
+contributions,Monotributo social,26551,0.7
+contributions,Not specified,4131,0.1
+premises,No premises,2223448,62.0
+premises,Own premises,782126,21.8
+premises,Borrowed or rented premises,580182,16.2
+premises,Not specified,410,0.0
+place_of_work,Premises/office/workshop,1087345,30.3
+place_of_work,Own home (no exclusive space),776209,21.6
+place_of_work,Client's home or premises,766064,21.4
+place_of_work,Own home (exclusive space),397278,11.1
+place_of_work,Street or door to door,215298,6.0
+place_of_work,Transport vehicle,190543,5.3
+place_of_work,Construction or mining site,64480,1.8
+place_of_work,Other,34176,1.0
+place_of_work,Fixed street stall,19089,0.5
+place_of_work,Vehicle (not transport service),19008,0.5
+place_of_work,Partner's or employer's home,9848,0.3
+place_of_work,Farm,6828,0.2
+region,Gran Buenos Aires,1885359,52.6
+region,Pampeana,818843,22.8
+region,Noroeste,349737,9.8
+region,Cuyo,243242,6.8
+region,Noreste,187725,5.2
+region,Patagonia,101260,2.8

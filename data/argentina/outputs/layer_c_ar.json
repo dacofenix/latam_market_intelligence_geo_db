@@ -1,0 +1,222 @@
+{
+ "country": "AR",
+ "layer": "C",
+ "source_id": "SPU_ANUARIO_2024; INDEC_CENSO_2022",
+ "period": "2024 (university year); 2022 (census)",
+ "C1_ict_students": {
+  "value": 186240,
+  "definition": "Discipline 'Informática' (rama Ciencias Aplicadas), pregrado y grado, state and private universities, 2024 (Anuario Cuadro 1.1.20)",
+  "share_of_undergraduate_pct": 7.1
+ },
+ "C2_students_by_province": {
+  "source": "Censo 2022, population attending university (de grado) by province of residence",
+  "rows": [
+   {
+    "department_code": "02",
+    "department": "Ciudad Autónoma de Buenos Aires",
+    "university_students_census2022": 263810,
+    "university_students_per_100k": 8450.8
+   },
+   {
+    "department_code": "06",
+    "department": "Buenos Aires",
+    "university_students_census2022": 808850,
+    "university_students_per_100k": 4615.7
+   },
+   {
+    "department_code": "10",
+    "department": "Catamarca",
+    "university_students_census2022": 16030,
+    "university_students_per_100k": 3731.7
+   },
+   {
+    "department_code": "14",
+    "department": "Córdoba",
+    "university_students_census2022": 209323,
+    "university_students_per_100k": 5449.8
+   },
+   {
+    "department_code": "18",
+    "department": "Corrientes",
+    "university_students_census2022": 41800,
+    "university_students_per_100k": 3446.9
+   },
+   {
+    "department_code": "22",
+    "department": "Chaco",
+    "university_students_census2022": 34205,
+    "university_students_per_100k": 3028.0
+   },
+   {
+    "department_code": "26",
+    "department": "Chubut",
+    "university_students_census2022": 23382,
+    "university_students_per_100k": 3945.5
+   },
+   {
+    "department_code": "30",
+    "department": "Entre Ríos",
+    "university_students_census2022": 55421,
+    "university_students_per_100k": 3887.6
+   },
+   {
+    "department_code": "34",
+    "department": "Formosa",
+    "university_students_census2022": 17520,
+    "university_students_per_100k": 2884.3
+   },
+   {
+    "department_code": "38",
+    "department": "Jujuy",
+    "university_students_census2022": 32132,
+    "university_students_per_100k": 3959.0
+   },
+   {
+    "department_code": "42",
+    "department": "La Pampa",
+    "university_students_census2022": 15055,
+    "university_students_per_100k": 4160.5
+   },
+   {
+    "department_code": "46",
+    "department": "La Rioja",
+    "university_students_census2022": 28296,
+    "university_students_per_100k": 7371.3
+   },
+   {
+    "department_code": "50",
+    "department": "Mendoza",
+    "university_students_census2022": 81784,
+    "university_students_per_100k": 4002.1
+   },
+   {
+    "department_code": "54",
+    "department": "Misiones",
+    "university_students_census2022": 38562,
+    "university_students_per_100k": 3015.3
+   },
+   {
+    "department_code": "58",
+    "department": "Neuquén",
+    "university_students_census2022": 26123,
+    "university_students_per_100k": 3675.1
+   },
+   {
+    "department_code": "62",
+    "department": "Río Negro",
+    "university_students_census2022": 33889,
+    "university_students_per_100k": 4513.9
+   },
+   {
+    "department_code": "66",
+    "department": "Salta",
+    "university_students_census2022": 56167,
+    "university_students_per_100k": 3896.8
+   },
+   {
+    "department_code": "70",
+    "department": "San Juan",
+    "university_students_census2022": 37822,
+    "university_students_per_100k": 4596.4
+   },
+   {
+    "department_code": "74",
+    "department": "San Luis",
+    "university_students_census2022": 34566,
+    "university_students_per_100k": 6376.7
+   },
+   {
+    "department_code": "78",
+    "department": "Santa Cruz",
+    "university_students_census2022": 14871,
+    "university_students_per_100k": 4409.8
+   },
+   {
+    "department_code": "82",
+    "department": "Santa Fe",
+    "university_students_census2022": 144635,
+    "university_students_per_100k": 4080.1
+   },
+   {
+    "department_code": "86",
+    "department": "Santiago del Estero",
+    "university_students_census2022": 26122,
+    "university_students_per_100k": 2462.2
+   },
+   {
+    "department_code": "90",
+    "department": "Tucumán",
+    "university_students_census2022": 82626,
+    "university_students_per_100k": 4771.1
+   },
+   {
+    "department_code": "94",
+    "department": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "university_students_census2022": 8413,
+    "university_students_per_100k": 4529.6
+   }
+  ]
+ },
+ "C3_concentration": {
+  "provinces_to_50pct": 2,
+  "provinces_to_75pct": 7,
+  "provinces_to_90pct": 14
+ },
+ "C4": {
+  "pct_public": 79.2,
+  "pct_women": 61.2,
+  "pct_distance": 9.6
+ },
+ "by_cpres_region_2024": [
+  {
+   "region_cpres": "Bonaerense",
+   "students": 290284,
+   "new_entrants": 85476,
+   "graduates": 16566,
+   "applied_sciences_students": 78845
+  },
+  {
+   "region_cpres": "Centro",
+   "students": 615647,
+   "new_entrants": 148910,
+   "graduates": 33225,
+   "applied_sciences_students": 159851
+  },
+  {
+   "region_cpres": "Metropolitana",
+   "students": 1004629,
+   "new_entrants": 286234,
+   "graduates": 65318,
+   "applied_sciences_students": 258927
+  },
+  {
+   "region_cpres": "Noreste",
+   "students": 145328,
+   "new_entrants": 40541,
+   "graduates": 7786,
+   "applied_sciences_students": 35055
+  },
+  {
+   "region_cpres": "Noroeste",
+   "students": 246590,
+   "new_entrants": 60866,
+   "graduates": 8106,
+   "applied_sciences_students": 63377
+  },
+  {
+   "region_cpres": "Nuevo Cuyo",
+   "students": 184960,
+   "new_entrants": 48474,
+   "graduates": 10397,
+   "applied_sciences_students": 48029
+  },
+  {
+   "region_cpres": "Sur",
+   "students": 120793,
+   "new_entrants": 34953,
+   "graduates": 3837,
+   "applied_sciences_students": 30502
+  }
+ ],
+ "limitations": "The SPU publishes university statistics by institution and by CPRES region, not by province or city of the programme (D-AR-05). Provincial counts come from the 2022 census and refer to the province where students live, all modalities. ICT students are available nationally (discipline Informática), not by province."
+}

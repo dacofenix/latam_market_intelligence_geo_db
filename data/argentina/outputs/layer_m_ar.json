@@ -1,0 +1,558 @@
+{
+ "country": "AR",
+ "layer": "M",
+ "source_id": "INDEC_EPH_2025",
+ "period": "2025 (Q1-Q4 average)",
+ "definition": "Own-account workers and employers (CAT_OCUP 1-2) whose unit has up to 10 people (PP04C 1-6). Argentina has no micro-business survey comparable to EMICRON (D-AR-10); EPH bands give 1-5 and 6-10, so the template limit of 9 cannot be applied.",
+ "M1_micro_businesses": 3586166,
+ "median_monthly_income_ars": 500000.0,
+ "interviews": 21614,
+ "independents_total": 3691031,
+ "independents_unit_size_unknown": 48948,
+ "M2_M5": [
+  {
+   "dimension": "total",
+   "category": "micro_businesses",
+   "micro_businesses": 3586166,
+   "pct": 100.0
+  },
+  {
+   "dimension": "activity",
+   "category": "Wholesale and retail trade",
+   "micro_businesses": 1092928,
+   "pct": 30.5
+  },
+  {
+   "dimension": "activity",
+   "category": "Construction",
+   "micro_businesses": 491403,
+   "pct": 13.7
+  },
+  {
+   "dimension": "activity",
+   "category": "Manufacturing",
+   "micro_businesses": 408351,
+   "pct": 11.4
+  },
+  {
+   "dimension": "activity",
+   "category": "Other services",
+   "micro_businesses": 366413,
+   "pct": 10.2
+  },
+  {
+   "dimension": "activity",
+   "category": "Professional, scientific and technical services",
+   "micro_businesses": 258564,
+   "pct": 7.2
+  },
+  {
+   "dimension": "activity",
+   "category": "Transport and storage",
+   "micro_businesses": 193446,
+   "pct": 5.4
+  },
+  {
+   "dimension": "activity",
+   "category": "Accommodation and food",
+   "micro_businesses": 177827,
+   "pct": 5.0
+  },
+  {
+   "dimension": "activity",
+   "category": "Health and social work",
+   "micro_businesses": 162088,
+   "pct": 4.5
+  },
+  {
+   "dimension": "activity",
+   "category": "Administrative services",
+   "micro_businesses": 128426,
+   "pct": 3.6
+  },
+  {
+   "dimension": "activity",
+   "category": "Education",
+   "micro_businesses": 89932,
+   "pct": 2.5
+  },
+  {
+   "dimension": "activity",
+   "category": "Information and communication (tech sector: CAES J)",
+   "micro_businesses": 52498,
+   "pct": 1.5
+  },
+  {
+   "dimension": "activity",
+   "category": "Arts and recreation",
+   "micro_businesses": 51590,
+   "pct": 1.4
+  },
+  {
+   "dimension": "activity",
+   "category": "Real estate",
+   "micro_businesses": 31454,
+   "pct": 0.9
+  },
+  {
+   "dimension": "activity",
+   "category": "Finance and insurance",
+   "micro_businesses": 24720,
+   "pct": 0.7
+  },
+  {
+   "dimension": "activity",
+   "category": "Agriculture, forestry and fishing",
+   "micro_businesses": 14598,
+   "pct": 0.4
+  },
+  {
+   "dimension": "activity",
+   "category": "Extraterritorial",
+   "micro_businesses": 14089,
+   "pct": 0.4
+  },
+  {
+   "dimension": "activity",
+   "category": "Water and waste",
+   "micro_businesses": 11142,
+   "pct": 0.3
+  },
+  {
+   "dimension": "activity",
+   "category": "Electricity and gas",
+   "micro_businesses": 3625,
+   "pct": 0.1
+  },
+  {
+   "dimension": "activity",
+   "category": "Households as employers",
+   "micro_businesses": 2173,
+   "pct": 0.1
+  },
+  {
+   "dimension": "activity",
+   "category": "Mining",
+   "micro_businesses": 432,
+   "pct": 0.0
+  },
+  {
+   "dimension": "activity",
+   "category": "Public administration",
+   "micro_businesses": 199,
+   "pct": 0.0
+  },
+  {
+   "dimension": "activity",
+   "category": "Not specified",
+   "micro_businesses": 10266,
+   "pct": 0.3
+  },
+  {
+   "dimension": "position",
+   "category": "Own-account worker",
+   "micro_businesses": 3202452,
+   "pct": 89.3
+  },
+  {
+   "dimension": "position",
+   "category": "Employer",
+   "micro_businesses": 383714,
+   "pct": 10.7
+  },
+  {
+   "dimension": "owner_sex",
+   "category": "Men",
+   "micro_businesses": 2116032,
+   "pct": 59.0
+  },
+  {
+   "dimension": "owner_sex",
+   "category": "Women",
+   "micro_businesses": 1470134,
+   "pct": 41.0
+  },
+  {
+   "dimension": "owner_age",
+   "category": "35-44",
+   "micro_businesses": 867477,
+   "pct": 24.2
+  },
+  {
+   "dimension": "owner_age",
+   "category": "45-54",
+   "micro_businesses": 837317,
+   "pct": 23.3
+  },
+  {
+   "dimension": "owner_age",
+   "category": "25-34",
+   "micro_businesses": 678886,
+   "pct": 18.9
+  },
+  {
+   "dimension": "owner_age",
+   "category": "55-64",
+   "micro_businesses": 617058,
+   "pct": 17.2
+  },
+  {
+   "dimension": "owner_age",
+   "category": "65+",
+   "micro_businesses": 341230,
+   "pct": 9.5
+  },
+  {
+   "dimension": "owner_age",
+   "category": "Up to 24",
+   "micro_businesses": 244198,
+   "pct": 6.8
+  },
+  {
+   "dimension": "size",
+   "category": "1 person",
+   "micro_businesses": 2502803,
+   "pct": 69.8
+  },
+  {
+   "dimension": "size",
+   "category": "2-5 people",
+   "micro_businesses": 1002582,
+   "pct": 28.0
+  },
+  {
+   "dimension": "size",
+   "category": "6-10 people",
+   "micro_businesses": 80781,
+   "pct": 2.3
+  },
+  {
+   "dimension": "informal_employment",
+   "category": "Informal",
+   "micro_businesses": 2132000,
+   "pct": 59.5
+  },
+  {
+   "dimension": "informal_employment",
+   "category": "Formal",
+   "micro_businesses": 1439528,
+   "pct": 40.1
+  },
+  {
+   "dimension": "informal_employment",
+   "category": "Not specified",
+   "micro_businesses": 14637,
+   "pct": 0.4
+  },
+  {
+   "dimension": "contributions",
+   "category": "No contributions",
+   "micro_businesses": 2186721,
+   "pct": 61.0
+  },
+  {
+   "dimension": "contributions",
+   "category": "Monotributo",
+   "micro_businesses": 1136108,
+   "pct": 31.7
+  },
+  {
+   "dimension": "contributions",
+   "category": "Autónomo or professional fund",
+   "micro_businesses": 232655,
+   "pct": 6.5
+  },
+  {
+   "dimension": "contributions",
+   "category": "Monotributo social",
+   "micro_businesses": 26551,
+   "pct": 0.7
+  },
+  {
+   "dimension": "contributions",
+   "category": "Not specified",
+   "micro_businesses": 4131,
+   "pct": 0.1
+  },
+  {
+   "dimension": "premises",
+   "category": "No premises",
+   "micro_businesses": 2223448,
+   "pct": 62.0
+  },
+  {
+   "dimension": "premises",
+   "category": "Own premises",
+   "micro_businesses": 782126,
+   "pct": 21.8
+  },
+  {
+   "dimension": "premises",
+   "category": "Borrowed or rented premises",
+   "micro_businesses": 580182,
+   "pct": 16.2
+  },
+  {
+   "dimension": "premises",
+   "category": "Not specified",
+   "micro_businesses": 410,
+   "pct": 0.0
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Premises/office/workshop",
+   "micro_businesses": 1087345,
+   "pct": 30.3
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Own home (no exclusive space)",
+   "micro_businesses": 776209,
+   "pct": 21.6
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Client's home or premises",
+   "micro_businesses": 766064,
+   "pct": 21.4
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Own home (exclusive space)",
+   "micro_businesses": 397278,
+   "pct": 11.1
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Street or door to door",
+   "micro_businesses": 215298,
+   "pct": 6.0
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Transport vehicle",
+   "micro_businesses": 190543,
+   "pct": 5.3
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Construction or mining site",
+   "micro_businesses": 64480,
+   "pct": 1.8
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Other",
+   "micro_businesses": 34176,
+   "pct": 1.0
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Fixed street stall",
+   "micro_businesses": 19089,
+   "pct": 0.5
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Vehicle (not transport service)",
+   "micro_businesses": 19008,
+   "pct": 0.5
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Partner's or employer's home",
+   "micro_businesses": 9848,
+   "pct": 0.3
+  },
+  {
+   "dimension": "place_of_work",
+   "category": "Farm",
+   "micro_businesses": 6828,
+   "pct": 0.2
+  },
+  {
+   "dimension": "region",
+   "category": "Gran Buenos Aires",
+   "micro_businesses": 1885359,
+   "pct": 52.6
+  },
+  {
+   "dimension": "region",
+   "category": "Pampeana",
+   "micro_businesses": 818843,
+   "pct": 22.8
+  },
+  {
+   "dimension": "region",
+   "category": "Noroeste",
+   "micro_businesses": 349737,
+   "pct": 9.8
+  },
+  {
+   "dimension": "region",
+   "category": "Cuyo",
+   "micro_businesses": 243242,
+   "pct": 6.8
+  },
+  {
+   "dimension": "region",
+   "category": "Noreste",
+   "micro_businesses": 187725,
+   "pct": 5.2
+  },
+  {
+   "dimension": "region",
+   "category": "Patagonia",
+   "micro_businesses": 101260,
+   "pct": 2.8
+  }
+ ],
+ "by_province": [
+  {
+   "department_code": "02",
+   "department": "Ciudad Autónoma de Buenos Aires",
+   "micro_businesses": 314516,
+   "interviews": 658
+  },
+  {
+   "department_code": "06",
+   "department": "Buenos Aires",
+   "micro_businesses": 1828701,
+   "interviews": 4832
+  },
+  {
+   "department_code": "10",
+   "department": "Catamarca",
+   "micro_businesses": 21291,
+   "interviews": 520
+  },
+  {
+   "department_code": "14",
+   "department": "Córdoba",
+   "micro_businesses": 226990,
+   "interviews": 1621
+  },
+  {
+   "department_code": "18",
+   "department": "Corrientes",
+   "micro_businesses": 48867,
+   "interviews": 482
+  },
+  {
+   "department_code": "22",
+   "department": "Chaco",
+   "micro_businesses": 49121,
+   "interviews": 583
+  },
+  {
+   "department_code": "26",
+   "department": "Chubut",
+   "micro_businesses": 37678,
+   "interviews": 601
+  },
+  {
+   "department_code": "30",
+   "department": "Entre Ríos",
+   "micro_businesses": 57604,
+   "interviews": 1411
+  },
+  {
+   "department_code": "34",
+   "department": "Formosa",
+   "micro_businesses": 32790,
+   "interviews": 524
+  },
+  {
+   "department_code": "38",
+   "department": "Jujuy",
+   "micro_businesses": 51956,
+   "interviews": 859
+  },
+  {
+   "department_code": "42",
+   "department": "La Pampa",
+   "micro_businesses": 15314,
+   "interviews": 433
+  },
+  {
+   "department_code": "46",
+   "department": "La Rioja",
+   "micro_businesses": 20814,
+   "interviews": 456
+  },
+  {
+   "department_code": "50",
+   "department": "Mendoza",
+   "micro_businesses": 141225,
+   "interviews": 1004
+  },
+  {
+   "department_code": "54",
+   "department": "Misiones",
+   "micro_businesses": 56947,
+   "interviews": 638
+  },
+  {
+   "department_code": "58",
+   "department": "Neuquén",
+   "micro_businesses": 34700,
+   "interviews": 469
+  },
+  {
+   "department_code": "62",
+   "department": "Río Negro",
+   "micro_businesses": 7828,
+   "interviews": 294
+  },
+  {
+   "department_code": "66",
+   "department": "Salta",
+   "micro_businesses": 86511,
+   "interviews": 1024
+  },
+  {
+   "department_code": "70",
+   "department": "San Juan",
+   "micro_businesses": 72527,
+   "interviews": 762
+  },
+  {
+   "department_code": "74",
+   "department": "San Luis",
+   "micro_businesses": 29489,
+   "interviews": 576
+  },
+  {
+   "department_code": "78",
+   "department": "Santa Cruz",
+   "micro_businesses": 7338,
+   "interviews": 167
+  },
+  {
+   "department_code": "82",
+   "department": "Santa Fe",
+   "micro_businesses": 261078,
+   "interviews": 1642
+  },
+  {
+   "department_code": "86",
+   "department": "Santiago del Estero",
+   "micro_businesses": 49096,
+   "interviews": 636
+  },
+  {
+   "department_code": "90",
+   "department": "Tucumán",
+   "micro_businesses": 120068,
+   "interviews": 1112
+  },
+  {
+   "department_code": "94",
+   "department": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+   "micro_businesses": 13716,
+   "interviews": 310
+  }
+ ],
+ "M4_digital": "Not available: the EPH has no ICT questions for businesses; household ICT use is in layer O (INDEC TIC module).",
+ "limitations": "Urban agglomerations only; persons, not firms (a business with two partners counts twice)."
+}

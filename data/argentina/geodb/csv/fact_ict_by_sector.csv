@@ -1,0 +1,22 @@
+sector,caes_section,employed,share_pct
+Information and communication (tech sector: CAES J),J,99650,59.5
+Finance and insurance,K,13765,8.2
+Public administration,O,9542,5.7
+"Professional, scientific and technical services",M,9136,5.5
+Manufacturing,C,6219,3.7
+Wholesale and retail trade,G,4300,2.6
+Other services,S,4147,2.5
+Education,P,3642,2.2
+Arts and recreation,R,3425,2.0
+Health and social work,Q,2936,1.8
+Administrative services,N,2556,1.5
+Real estate,L,1592,0.9
+Transport and storage,H,1397,0.8
+Mining,B,1284,0.8
+Extraterritorial,U,1174,0.7
+"Agriculture, forestry and fishing",A,781,0.5
+Construction,F,732,0.4
+Accommodation and food,I,647,0.4
+Not specified,,351,0.2
+Water and waste,E,245,0.1
+Electricity and gas,D,58,0.0

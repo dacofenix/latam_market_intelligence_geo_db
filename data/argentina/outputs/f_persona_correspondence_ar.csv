@@ -1,0 +1,14 @@
+persona_id,persona,ring,isco08_template_codes,cno2001_codes_assigned,recall_2015,precision_2015,size_ratio_cno_vs_ciuo_2015,ciuo08_employed_2015,cno_employed_2015,review_status
+P01,Software developers and analysts,core,2511;2512;2513;2514;2519,81131;81201;81331,0.8744,0.6165,1.418,106197,150621,identifiable
+P02,"Database, systems and network professionals",core,2521;2522;2523;2529,,0.0,,0.0,51784,0,not_identifiable_in_cno2001
+P03,ICT technicians and user support,core,3511;3512;3513;3514;3521;3522,45132;45322;52332;81132;81332,0.1448,0.7897,0.183,141473,25947,identifiable
+P04,ICT managers,core,1330,,0.0,,0.0,4752,0,not_identifiable_in_cno2001
+P05,"Designers (graphic, multimedia, product)",adjacent,2163;2166,,0.0,,0.0,44618,0,not_identifiable_in_cno2001
+P06,Business and management analysts,adjacent,2421;2422,43332,0.0481,0.5214,0.092,26869,2480,identifiable
+P07,Finance and investment analysts,adjacent,2412;2413,20311,0.1745,0.6867,0.254,21387,5433,identifiable
+P08,"Data, statistics and research specialists",adjacent,2120;2631;2632;3314,,0.0,,0.0,23813,0,not_identifiable_in_cno2001
+P09,Marketing and advertising professionals,adjacent,2431;2432,,0.0,,0.0,16241,0,not_identifiable_in_cno2001
+P10,Accountants and auditors,extended,2411,10331;20131;20331,0.7867,0.8154,0.965,188106,181486,identifiable
+P11,Engineers (non-ICT),extended,2141;2142;2143;2144;2145;2146;2149;2151;2152;2153,71331;80131;92331,0.1578,0.634,0.249,70152,17466,identifiable
+P12,Business and operations managers,extended,1211;1212;1213;1219;1221;1222;1223;1321;1322;1323;1324;1341;1342;1343;1344;1345;1346;1349,03001;07001;40201,0.2872,0.9132,0.315,179896,56581,identifiable
+P13,Higher-education and IT educators,extended,2310;2356,41311,0.4681,0.7997,0.585,135010,79026,identifiable

@@ -1,0 +1,82 @@
+{
+ "country": "AR",
+ "layer": "Q",
+ "source_id": "GEOREF_IGN_202312",
+ "sources": {
+  "provincias": {
+   "file": "provincias.csv / provincias.geojson",
+   "sha256": [
+    "07892ec27d23c76b8272e6be287eb1a52a4f7143483d34d74ac53dbecdebc1a8",
+    "b086852064c26813d9f607c82c91b4e74e18ea83fd21993ddedd473cf8495af5"
+   ],
+   "file_date": "2023-12-05",
+   "rows": 24
+  },
+  "departamentos": {
+   "file": "departamentos.csv / departamentos.geojson",
+   "sha256": [
+    "407e2ed69f1b7a0d30badf206de8f3da27e0f9c20a17b6917cb869b86f14d607",
+    "31afdfe5983b6d7648eba1eafc7a5a8fe3c591abdca4b17c311c08c75d361e92"
+   ],
+   "file_date": "2023-12-05",
+   "rows": 529
+  }
+ },
+ "counts": {
+  "provinces": 24,
+  "departments": 529,
+  "departments_per_province": {
+   "02": 15,
+   "06": 135,
+   "10": 16,
+   "14": 26,
+   "18": 25,
+   "22": 25,
+   "26": 15,
+   "30": 17,
+   "34": 9,
+   "38": 16,
+   "42": 22,
+   "46": 18,
+   "50": 18,
+   "54": 17,
+   "58": 16,
+   "62": 13,
+   "66": 23,
+   "70": 19,
+   "74": 9,
+   "78": 7,
+   "82": 19,
+   "86": 27,
+   "90": 17,
+   "94": 5
+  },
+  "categories": {
+   "Departamento": 379,
+   "Partido": 135,
+   "Comuna": 15
+  }
+ },
+ "key": {
+  "province": "INDEC 2-digit jurisdiction code (department_code, text with leading zero)",
+  "department": "INDEC 5-digit code = province + 3 digits (municipality_code); CABA's 15 comunas are its departments (02007-02105)"
+ },
+ "point_method": "Georef centroid of each department (centroide_lat/lon), as published; no centroids computed here.",
+ "boundaries": {
+  "source": "Georef GeoJSON (IGN), as published (already generalised by Georef); converted to MultiPolygon, 5 decimals",
+  "crs": "WGS 84 (EPSG:4326), lon/lat"
+ },
+ "census_join": {
+  "census_departments": 528,
+  "georef_departments": 529,
+  "unmatched": [
+   {
+    "municipality_code": "94021",
+    "name_census": null,
+    "name": "Islas del Atlántico Sur",
+    "_merge": "right_only"
+   }
+  ]
+ },
+ "limitations": "Georef has 529 departments including Antártida Argentina (94028) and Islas del Atlántico Sur (94021). Census tables publish Tierra del Fuego by department as listed in unmatched when codes differ."
+}

@@ -1,4 +1,4 @@
-# LATAM Market Intelligence — Colombia, Perú y México
+# LATAM Market Intelligence — Colombia, Perú, México y Argentina
 
 ## Uso
 
@@ -16,6 +16,17 @@ México se carga desde archivos, como Perú (`lib/mexicoData.js`, rutas `/api/me
 - **Municipios de México**: 2.478 polígonos INEGI con DENUE, escuelas, educación superior y población. Se cargan por área visible (hasta 600) y la capa abre centrada en Ciudad de México; con más municipios en pantalla se muestra una muestra y se pide acercar. Las personas de la ENOE nunca se reparten por municipio.
 - **Ciudad de México, Estado de México, Monterrey y Guadalajara** (capa J): empresas privadas por alcaldía de Ciudad de México y por municipio metropolitano según *Metrópolis de México 2020*: los 45 municipios del Estado de México en la Zona Metropolitana de la Ciudad de México, y las zonas metropolitanas de Monterrey (16) y Guadalajara (7). Cada ciudad es un botón propio con su escala de color.
 - **Indicadores nacionales** (A, B, I, O, P): se dibujan sobre el contorno del país y nunca se reparten por territorio. Los datos sin fuente entregada quedan vacíos, no en cero.
+
+## Argentina en el mapa
+
+Argentina se carga desde archivos, como México y Perú (`lib/argentinaData.js`, rutas `/api/argentina/*`), a partir de las tablas con forma de Colombia en `data/argentina/geodb/csv/`. Los datos, decisiones (`data/argentina/decisions_log.csv`) y fuentes (`data/argentina/sources_register.csv`) están en `data/argentina/`; los scripts en `scripts/build-argentina-*.py`, y `node scripts/check-argentina.js` ejecuta las comprobaciones. El nivel principal es la **provincia**: 23 provincias y la Ciudad Autónoma de Buenos Aires, con código INDEC de 2 dígitos.
+
+- **Provincias de Argentina**: 24 polígonos Georef (IGN) con personas de la EPH 2025 (estimación observada en los aglomerados urbanos de cada provincia, con número de entrevistas), establecimientos y empresas con empleo registrado (CEP XXI 2022), alumnos de los años 9 a 12 (Relevamiento Anual 2025) y escuelas secundarias (Padrón 2026), estudiantes universitarios por residencia (Censo 2022), institutos de nivel superior, población (Censo 2022) y micronegocios. Los valores provinciales salen de las tablas provinciales, no de sumar departamentos. El filtro por persona funciona solo en esta capa.
+- **Departamentos de Argentina**: 528 polígonos (departamentos, partidos y comunas) con empresas, escuelas y población. Las personas de la EPH nunca se reparten por departamento.
+- **Ciudad Autónoma de Buenos Aires** y **Gran Buenos Aires** (capa J): establecimientos por comuna (15) y por partido del Gran Buenos Aires (24, definición del INDEC). Cada uno es un botón propio con su escala de color.
+- **Indicadores nacionales** (A, B, I, O, P): se dibujan sobre el contorno del país y nunca se reparten por territorio.
+- **Personas sin código en la EPH**: la EPH codifica la ocupación en CNO-2001. P02, P04, P05, P08 y P09 no tienen un código donde sean mayoría, así que sus celdas quedan vacías, nunca en cero. La ficha de cada persona muestra los códigos CNO-2001 que la forman o, si no tiene, dónde están sus trabajadores (`data/argentina/outputs/f_persona_crossref_ar.csv`).
+- **Sector antártico**: el mapa omite las partes de polígono al sur de 60°S (departamento Antártida Argentina); los CSV conservan la geometría publicada por Georef (D-AR-15).
 
 ## Perú en el mapa
 
