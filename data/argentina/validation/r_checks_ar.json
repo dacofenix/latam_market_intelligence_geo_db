@@ -1,0 +1,205 @@
+{
+ "country": "AR",
+ "layer": "R",
+ "R1_published_totals": {
+  "checks": [
+   {
+    "check": "Employment rate (F), EPH 2025 Q1",
+    "processed": 44.42,
+    "published": 44.4,
+    "difference_pct_points": 0.02,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Unemployment rate (F), EPH 2025 Q1",
+    "processed": 7.89,
+    "published": 7.9,
+    "difference_pct_points": -0.01,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Employment rate (F), EPH 2025 Q2",
+    "processed": 44.48,
+    "published": 44.5,
+    "difference_pct_points": -0.02,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Unemployment rate (F), EPH 2025 Q2",
+    "processed": 7.58,
+    "published": 7.6,
+    "difference_pct_points": -0.02,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Employment rate (F), EPH 2025 Q3",
+    "processed": 45.4,
+    "published": 45.4,
+    "difference_pct_points": 0.0,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Unemployment rate (F), EPH 2025 Q3",
+    "processed": 6.58,
+    "published": 6.6,
+    "difference_pct_points": -0.02,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Employment rate (F), EPH 2025 Q4",
+    "processed": 44.96,
+    "published": 45.0,
+    "difference_pct_points": -0.04,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Unemployment rate (F), EPH 2025 Q4",
+    "processed": 7.49,
+    "published": 7.5,
+    "difference_pct_points": -0.01,
+    "tolerance": "0.05 points (published to 0.1)",
+    "ok": true
+   },
+   {
+    "check": "Population (E), provinces add to the published national total, Censo 2022",
+    "processed": 45892285,
+    "published": 45892285,
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "Population (E), departments add to each province, Censo 2022",
+    "processed": "24 provinces",
+    "published": "24 provinces",
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "Enrolment años 9-12 (K): grades add to total and provinces add to national, RA 2025",
+    "processed": 2676351,
+    "published": 2676351,
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "University students (L) by sector add to total, Anuario 2024",
+    "processed": 2608231,
+    "published": 2608231,
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "Establishments (D/N), CEP XXI 2022: geolocated base vs department file",
+    "processed": 715377,
+    "published": 715377,
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "Zones (J): CABA comunas add to CABA",
+    "processed": 156211,
+    "published": 156211,
+    "difference_pct": 0.0,
+    "tolerance": "exact",
+    "ok": true
+   },
+   {
+    "check": "Segments (H): cells add to persona totals",
+    "processed": "13 personas",
+    "published": "13 personas",
+    "difference_pct": 0.0,
+    "tolerance": "rounding",
+    "ok": true
+   }
+  ],
+  "passed": 15,
+  "total": 15
+ },
+ "R2_sources_register": {
+  "sources": 33,
+  "complete": 33,
+  "incomplete": [],
+  "to_confirm": [
+   {
+    "source_id": "GEOREF_IGN_202312",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   },
+   {
+    "source_id": "MEN_RA_2025",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   },
+   {
+    "source_id": "MEN_PADRON_2026",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   },
+   {
+    "source_id": "CEP_XXI_ESTABLECIMIENTOS_2022",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   },
+   {
+    "source_id": "CESSI_OPSSI_2026Q1_PRESS",
+    "missing": [],
+    "to_confirm": [
+     "status"
+    ],
+    "hash_recorded": false
+   },
+   {
+    "source_id": "BCRA_A3500",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   },
+   {
+    "source_id": "LEY_GANANCIAS_TO2019",
+    "missing": [],
+    "to_confirm": [
+     "status"
+    ],
+    "hash_recorded": false
+   },
+   {
+    "source_id": "DATAREPORTAL_DIGITAL_2026_AR",
+    "missing": [],
+    "to_confirm": [
+     "license"
+    ],
+    "hash_recorded": true
+   }
+  ]
+ },
+ "not_checkable": [
+  "Micro-businesses (M): no published total exists for own-account and employers in units up to 10 people.",
+  "Schools (K1): the Padrón has no published count of secondary localizaciones to compare with."
+ ]
+}

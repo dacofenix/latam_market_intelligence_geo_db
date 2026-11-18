@@ -1,0 +1,186 @@
+{
+ "country": "AR",
+ "layer": "A",
+ "source_id": "SRC_GH_IG",
+ "period": "2026Q1",
+ "comparison_period": "2025Q1",
+ "source": {
+  "repository": "https://github.com/github/innovationgraph",
+  "commit": "078fb62ee4395d321bec9f4f06694cca68f6b6cb",
+  "release": "1.0.10",
+  "file_sha256": {
+   "developers.csv": "4d66d50024066cbb85fec990f75bdb9a736e89dc998af8fbca6e946c14e56fd1",
+   "git_pushes.csv": "8d8525632080b21e1b39cfd2fbd0abdb898461ec9ee7e59da61977749a296d3a",
+   "languages.csv": "795f7b9da010161544ed50359e2bce9a9c8757831c25f4cb939dbf0569215dc2",
+   "organizations.csv": "756ca03e5b6edcc81eafffa66f6d3a95f95d80e1fdad89f2f3ae8e7e5e8a88d6",
+   "repositories.csv": "ccff96ee8774b9a3369ab552cb2b568b135b8bd5b818e2678071731ec34b8613"
+  }
+ },
+ "engine": {
+  "script": "scripts/build-argentina-a-github.py",
+  "note": "Re-implementation of the Peru/Mexico layer_a_country.py rules; reproduces the 25 Mexico indicator rows, 192 language rows, 100 quarterly rows and the 18-country LATAM table (144 of 144 fields) of the Mexico package exactly."
+ },
+ "indicators": {
+  "A1_developer_accounts": 1599355.0,
+  "A1_developer_accounts_prev_year": 1223581.0,
+  "A1_developer_accounts_2024q1": 1026667.0,
+  "A1_developer_accounts_yoy": 0.30711003194721065,
+  "A2_organizations": 58428.0,
+  "A2_organizations_yoy": 0.22482862713036922,
+  "A2_developers_per_organization": 27.373091668378176,
+  "A3_git_pushes": 2797931.0,
+  "A3_git_pushes_yoy": 1.1005740309192902,
+  "A3_pushes_per_developer_account": 1.749412106755536,
+  "A4_growth_threshold": 3944.5861453159387,
+  "A4_fastest_growing_01": 0.9216789964618848,
+  "A4_fastest_growing_02": 0.8189389265885256,
+  "A4_fastest_growing_03": 0.7908314450061007,
+  "A4_fastest_growing_04": 0.6892904022855377,
+  "A4_fastest_growing_05": 0.46624715740942646,
+  "A4_fastest_growing_06": 0.13416784203102972,
+  "A4_alt1000_fastest_growing_01": 0.9988590986879635,
+  "A4_alt1000_fastest_growing_02": 0.9216789964618848,
+  "A4_alt1000_fastest_growing_03": 0.8189389265885256,
+  "A4_alt1000_fastest_growing_04": 0.7908314450061007,
+  "A4_alt1000_fastest_growing_05": 0.6892904022855377,
+  "A4_alt1000_fastest_growing_06": 0.5330472103004291,
+  "A5_enterprise_share_template_basket": 0.04537398208258044,
+  "A5_enterprise_share_earlier_method": 0.04537398208258044
+ },
+ "top_languages_2026Q1": [
+  {
+   "rank": 1,
+   "language": "HTML",
+   "pushers": 52745
+  },
+  {
+   "rank": 2,
+   "language": "JavaScript",
+   "pushers": 47068
+  },
+  {
+   "rank": 3,
+   "language": "CSS",
+   "pushers": 43982
+  },
+  {
+   "rank": 4,
+   "language": "TypeScript",
+   "pushers": 23898
+  },
+  {
+   "rank": 5,
+   "language": "Python",
+   "pushers": 21878
+  },
+  {
+   "rank": 6,
+   "language": "Shell",
+   "pushers": 11794
+  },
+  {
+   "rank": 7,
+   "language": "Dockerfile",
+   "pushers": 10274
+  },
+  {
+   "rank": 8,
+   "language": "Java",
+   "pushers": 6433
+  },
+  {
+   "rank": 9,
+   "language": "C#",
+   "pushers": 4109
+  },
+  {
+   "rank": 10,
+   "language": "SCSS",
+   "pushers": 3999
+  }
+ ],
+ "engine_meta": {
+  "basket_present": [
+   "Java",
+   "C#",
+   "Visual Basic .NET",
+   "TSQL",
+   "Scala",
+   "Kotlin"
+  ],
+  "basket_absent": [
+   "COBOL",
+   "PLSQL",
+   "ABAP",
+   "Apex",
+   "Groovy"
+  ],
+  "total_memberships_latest": 289439,
+  "total_memberships_prev": 193934,
+  "co_total_memberships_prev": 245823,
+  "latest_quarter_available": "2026Q1"
+ },
+ "checks": {
+  "mexico_reproduction": {
+   "indicator_rows": {
+    "rows": 25,
+    "all_equal": true
+   },
+   "language_rows": {
+    "rows": 192,
+    "all_equal": true
+   },
+   "quarterly_rows": {
+    "rows": 100,
+    "all_equal": true
+   },
+   "latam_18_table": {
+    "fields": 144,
+    "fields_matching": 144
+   }
+  },
+  "benchmark_fact_developers_country": [
+   {
+    "field": "developers",
+    "fact_developers_country": 1599355,
+    "engine": 1599355,
+    "ok": true
+   },
+   {
+    "field": "developers_yoy_pct",
+    "fact_developers_country": 30.7,
+    "engine": 30.7,
+    "ok": true
+   },
+   {
+    "field": "organizations",
+    "fact_developers_country": 58428,
+    "engine": 58428,
+    "ok": true
+   },
+   {
+    "field": "organizations_yoy_pct",
+    "fact_developers_country": 22.5,
+    "engine": 22.5,
+    "ok": true
+   },
+   {
+    "field": "pushes_per_dev",
+    "fact_developers_country": 1.75,
+    "engine": 1.75,
+    "ok": true
+   },
+   {
+    "field": "enterprise_lang_share_pct",
+    "fact_developers_country": 4.54,
+    "engine": 4.54,
+    "ok": true
+   }
+  ]
+ },
+ "notes": {
+  "period": "Q1 2026 vs Q1 2025, the same quarters and Innovation Graph release as Colombia, Peru and Mexico. Q2 2026 was published upstream on 2026-10-27 and is not used, to keep the countries comparable.",
+  "A4_A5": "Fastest-growing threshold and enterprise basket inherit the Chile/Peru precedents, still pending methodological validation (decisions D-03, D-04 of the Day 1 packages)."
+ },
+ "limitations": "Developer accounts are located by the most frequent daily IP and include inactive accounts; organisations are GitHub workspaces, not legal companies."
+}

@@ -1,0 +1,329 @@
+{
+ "country": "AR",
+ "layer": "E",
+ "source_id": "INDEC_CENSO_2022",
+ "period": "2022 (census day 18-05-2022)",
+ "national_population": 45892285,
+ "provinces": [
+  {
+   "department_code": "02",
+   "name": "Ciudad Autónoma de Buenos Aires",
+   "year": 2022,
+   "population_2010": 2890151,
+   "population": 3121707
+  },
+  {
+   "department_code": "06",
+   "name": "Buenos Aires",
+   "year": 2022,
+   "population_2010": 15625084,
+   "population": 17523996
+  },
+  {
+   "department_code": "10",
+   "name": "Catamarca",
+   "year": 2022,
+   "population_2010": 367828,
+   "population": 429562
+  },
+  {
+   "department_code": "22",
+   "name": "Chaco",
+   "year": 2022,
+   "population_2010": 1055259,
+   "population": 1129606
+  },
+  {
+   "department_code": "26",
+   "name": "Chubut",
+   "year": 2022,
+   "population_2010": 509108,
+   "population": 592621
+  },
+  {
+   "department_code": "14",
+   "name": "Córdoba",
+   "year": 2022,
+   "population_2010": 3308876,
+   "population": 3840905
+  },
+  {
+   "department_code": "18",
+   "name": "Corrientes",
+   "year": 2022,
+   "population_2010": 992595,
+   "population": 1212696
+  },
+  {
+   "department_code": "30",
+   "name": "Entre Ríos",
+   "year": 2022,
+   "population_2010": 1235994,
+   "population": 1425578
+  },
+  {
+   "department_code": "34",
+   "name": "Formosa",
+   "year": 2022,
+   "population_2010": 530162,
+   "population": 607419
+  },
+  {
+   "department_code": "38",
+   "name": "Jujuy",
+   "year": 2022,
+   "population_2010": 673307,
+   "population": 811611
+  },
+  {
+   "department_code": "42",
+   "name": "La Pampa",
+   "year": 2022,
+   "population_2010": 318951,
+   "population": 361859
+  },
+  {
+   "department_code": "46",
+   "name": "La Rioja",
+   "year": 2022,
+   "population_2010": 333642,
+   "population": 383865
+  },
+  {
+   "department_code": "50",
+   "name": "Mendoza",
+   "year": 2022,
+   "population_2010": 1738929,
+   "population": 2043540
+  },
+  {
+   "department_code": "54",
+   "name": "Misiones",
+   "year": 2022,
+   "population_2010": 1101593,
+   "population": 1278873
+  },
+  {
+   "department_code": "58",
+   "name": "Neuquén",
+   "year": 2022,
+   "population_2010": 551266,
+   "population": 710814
+  },
+  {
+   "department_code": "62",
+   "name": "Río Negro",
+   "year": 2022,
+   "population_2010": 638645,
+   "population": 750768
+  },
+  {
+   "department_code": "66",
+   "name": "Salta",
+   "year": 2022,
+   "population_2010": 1214441,
+   "population": 1441351
+  },
+  {
+   "department_code": "70",
+   "name": "San Juan",
+   "year": 2022,
+   "population_2010": 681055,
+   "population": 822853
+  },
+  {
+   "department_code": "74",
+   "name": "San Luis",
+   "year": 2022,
+   "population_2010": 432310,
+   "population": 542069
+  },
+  {
+   "department_code": "78",
+   "name": "Santa Cruz",
+   "year": 2022,
+   "population_2010": 273964,
+   "population": 337226
+  },
+  {
+   "department_code": "82",
+   "name": "Santa Fe",
+   "year": 2022,
+   "population_2010": 3194537,
+   "population": 3544908
+  },
+  {
+   "department_code": "86",
+   "name": "Santiago del Estero",
+   "year": 2022,
+   "population_2010": 874006,
+   "population": 1060906
+  },
+  {
+   "department_code": "94",
+   "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+   "year": 2022,
+   "population_2010": 127205,
+   "population": 185732
+  },
+  {
+   "department_code": "90",
+   "name": "Tucumán",
+   "year": 2022,
+   "population_2010": 1448188,
+   "population": 1731820
+  }
+ ],
+ "checks": {
+  "provinces_add_to_national": true,
+  "departments_add_to_provinces": {
+   "02": {
+    "departments": 3121707,
+    "province": 3121707,
+    "ok": true
+   },
+   "06": {
+    "departments": 17523996,
+    "province": 17523996,
+    "ok": true
+   },
+   "10": {
+    "departments": 429562,
+    "province": 429562,
+    "ok": true
+   },
+   "22": {
+    "departments": 1129606,
+    "province": 1129606,
+    "ok": true
+   },
+   "26": {
+    "departments": 592621,
+    "province": 592621,
+    "ok": true
+   },
+   "14": {
+    "departments": 3840905,
+    "province": 3840905,
+    "ok": true
+   },
+   "18": {
+    "departments": 1212696,
+    "province": 1212696,
+    "ok": true
+   },
+   "30": {
+    "departments": 1425578,
+    "province": 1425578,
+    "ok": true
+   },
+   "34": {
+    "departments": 607419,
+    "province": 607419,
+    "ok": true
+   },
+   "38": {
+    "departments": 811611,
+    "province": 811611,
+    "ok": true
+   },
+   "42": {
+    "departments": 361859,
+    "province": 361859,
+    "ok": true
+   },
+   "46": {
+    "departments": 383865,
+    "province": 383865,
+    "ok": true
+   },
+   "50": {
+    "departments": 2043540,
+    "province": 2043540,
+    "ok": true
+   },
+   "54": {
+    "departments": 1278873,
+    "province": 1278873,
+    "ok": true
+   },
+   "58": {
+    "departments": 710814,
+    "province": 710814,
+    "ok": true
+   },
+   "62": {
+    "departments": 750768,
+    "province": 750768,
+    "ok": true
+   },
+   "66": {
+    "departments": 1441351,
+    "province": 1441351,
+    "ok": true
+   },
+   "70": {
+    "departments": 822853,
+    "province": 822853,
+    "ok": true
+   },
+   "74": {
+    "departments": 542069,
+    "province": 542069,
+    "ok": true
+   },
+   "78": {
+    "departments": 337226,
+    "province": 337226,
+    "ok": true
+   },
+   "82": {
+    "departments": 3544908,
+    "province": 3544908,
+    "ok": true
+   },
+   "86": {
+    "departments": 1060906,
+    "province": 1060906,
+    "ok": true
+   },
+   "94": {
+    "departments": 185732,
+    "province": 185732,
+    "ok": true
+   },
+   "90": {
+    "departments": 1731820,
+    "province": 1731820,
+    "ok": true
+   }
+  }
+ },
+ "files": [
+  "ar_raw_c2022_bsas_est_c1_2.xlsx",
+  "ar_raw_c2022_caba_est_c1_1.xlsx",
+  "ar_raw_c2022_catamarca_est_c1_3.xlsx",
+  "ar_raw_c2022_chaco_est_c1_4.xlsx",
+  "ar_raw_c2022_chubut_est_c1_5.xlsx",
+  "ar_raw_c2022_cordoba_est_c1_6.xlsx",
+  "ar_raw_c2022_corrientes_est_c1_7.xlsx",
+  "ar_raw_c2022_entrerios_est_c1_8.xlsx",
+  "ar_raw_c2022_formosa_est_c1_9.xlsx",
+  "ar_raw_c2022_jujuy_est_c1_10.xlsx",
+  "ar_raw_c2022_lapampa_est_c1_11.xlsx",
+  "ar_raw_c2022_larioja_est_c1_12.xlsx",
+  "ar_raw_c2022_mendoza_est_c1_13.xlsx",
+  "ar_raw_c2022_misiones_est_c1_14.xlsx",
+  "ar_raw_c2022_neuquen_est_c1_15.xlsx",
+  "ar_raw_c2022_rionegro_est_c1_16.xlsx",
+  "ar_raw_c2022_salta_est_c1_17.xlsx",
+  "ar_raw_c2022_sanjuan_est_c1_18.xlsx",
+  "ar_raw_c2022_sanluis_est_c1_19.xlsx",
+  "ar_raw_c2022_santacruz_est_c1_20.xlsx",
+  "ar_raw_c2022_santafe_est_c1_21.xlsx",
+  "ar_raw_c2022_santiago_est_c1_22.xlsx",
+  "ar_raw_c2022_tdf_est_c1_23.xlsx",
+  "ar_raw_c2022_tucuman_est_c1_24.xlsx"
+ ],
+ "note": "Population counted by the 2022 census (resultados definitivos). INDEC publishes projections 2022-2040 only for the total country (2025: see layer O), not by province or department (D-AR-03)."
+}

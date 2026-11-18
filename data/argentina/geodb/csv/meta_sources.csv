@@ -1,0 +1,23 @@
+table_name,description,source,year
+geo_department,Provinces of Argentina: 23 provinces and the Ciudad Autónoma de Buenos Aires (INDEC 2 digits).,"Georef (IGN), provincias.csv, 2023-12-05 (build-argentina-q-e-geo-population.py)",2023
+geo_municipality,"Departments, partidos and comunas (INDEC 5 digits = province + department) with the Georef centroid as reference point.","Georef (IGN), departamentos.csv, 2023-12-05",2023
+geo_department_shape,"Province boundaries (MultiPolygon, WGS84 lon/lat, 5 decimals) as published by Georef.","Georef (IGN), provincias.geojson, 2023-12-05",2023
+geo_municipality_shape,"Department boundaries (MultiPolygon, WGS84 lon/lat, 5 decimals) as published by Georef.","Georef (IGN), departamentos.geojson, 2023-12-05",2023
+geo_zone,"Zones of the largest city: CABA's 15 comunas (CABA-) and the 24 partidos of Gran Buenos Aires (GBA-), each a whole department with its polygon and point.",Georef (IGN); INDEC ¿Qué es el Gran Buenos Aires? (build-argentina-d-n-j-companies.py),2023
+fact_population_department,"Population by province, censuses 2010 and 2022 (resultados definitivos).","INDEC Censo 2022, c2022_tp_est_c1",2022
+fact_population_municipality,Population 2022 by department (resultados definitivos); 94021 has no census population (no row).,"INDEC Censo 2022, cuadros provinciales 1.n",2022
+fact_schools_department,"Students in años corridos 9-12 (2025) by province, with grade, sector, rural, women, under-18 and technical 13-14 columns; secondary schools from the Padrón 2026.","Secretaría de Educación, RA 2025 base agregada; Padrón Oficial 16-06-2026 (build-argentina-k-c-l-education.py)",2025
+fact_schools_municipality,Students in años 9-12 and secondary schools by department where the RA department name matches a Georef code (98.1% of students; masked rows only at province level).,RA 2025 base agregada; Padrón Oficial 2026,2025
+fact_higher_ed_department,"Higher education by province: university, postgraduate and tertiary non-university attendance (Censo 2022, by residence), SNU enrolment 2025 (RA), SNU institutions and vocational training centres (Padrón 2026), students per 100,000 inhabitants.",INDEC Censo 2022; RA 2025; Padrón 2026,2022
+fact_companies_department,"Establishments, distinct firms, micro (1-9) and medium-large (50+) establishments, shops (CLAE 4711) and IT establishments by province, 2022, with businesses per secondary school.","CEP XXI, Distribución geográfica de los establecimientos productivos (build-argentina-d-n-j-companies.py)",2022
+fact_companies_municipality,"Same counts by department, one row per Georef department (0 = none registered).",CEP XXI establishments 2022,2022
+fact_companies_zone,"Establishments by zone (CABA comunas and GBA partidos), size and template activity groups mapped to CLAE6.",CEP XXI establishments 2022,2022
+fact_developers_country,"GitHub developers and organisations, Q1 2026, for the same 18 LATAM economies as the Colombia and Mexico tables (identical values).",GitHub Innovation Graph release 1.0.10 (build-argentina-a-github.py),2026
+fact_map_indicator,"National indicators without geography (scope_id = AR): layer A (GitHub), B (Stack Overflow 2025, Argentina and comparison groups), I (price), O (context), P (programme).",See source_id per row,2026
+fact_persona_profile,"One row per persona: national urban profile, EPH 2025 (Q1-Q4, PONDERA / 4). CNO-2001 mapped to personas by majority on INDEC's 2015 double coding; empty rows = persona not identifiable.",INDEC EPH 2025; INDEC EPH 2015 CIUO-08 (build-argentina-eph.py),2025
+fact_persona_department,"People per persona by province (EPH agglomerates of the province), with interviews.",INDEC EPH 2025,2025
+fact_persona_metro,"People per persona by EPH agglomerate (31), anchored to the department of its main city, with interviews.",INDEC EPH 2025,2025
+fact_persona_segment,"Persona x agglomerate x buyer type (direct cross-tabulation; size bands up to 10, 11-200, 201+), with interviews and confidence.",INDEC EPH 2025,2025
+fact_ict_by_sector,IT staff (identifiable core personas P01 and P03) by CAES section of the employer; tech sector = section J.,INDEC EPH 2025,2025
+fact_micro_department,Micro-businesses by province: own-account workers and employers in units of up to 10 people (EPH agglomerates).,INDEC EPH 2025,2025
+fact_micro_national,"National distributions of micro-businesses: activity, position, owner sex and age, size, informality, contributions, invoices, premises, place of work and region.",INDEC EPH 2025,2025

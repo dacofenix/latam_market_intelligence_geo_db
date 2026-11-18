@@ -1,0 +1,210 @@
+{
+ "country": "AR",
+ "layer": "F",
+ "purpose": "Occupation mapping for EPH 2025 (CNO-2001) to the 13 template personas (CIUO-08). Pending approval.",
+ "rule": "majority_within_persona: >= 50% of the CNO-2001 code's weighted employed in EPH 2015 Q1+Q2 have a CIUO-08 code of the persona, with at least 5 interviews (D-AR-09).",
+ "sources": {
+  "dual_coded": {
+   "files": [
+    "EPH_CIUO_115.rar",
+    "EPH_CIUO_215.rar"
+   ],
+   "sha256": [
+    "f08fdfc2fe1b0c9f6576e600f9940a9b190514a81f9629c6e792aa4a74fee587",
+    "3432b2b8d618e8ee4713f3bfa88ea6b420c10353fcf79e83a98ed289be2e1d90"
+   ]
+  },
+  "eph_2015": {
+   "files": [
+    "t115_dta.rar",
+    "t215_dta.rar"
+   ],
+   "sha256": [
+    "29d4ce5d9562e7058efbeb8024f2a24a7b07ecfc5f4cd89ba66d881445538e6f",
+    "7cbed7272a1e72c51e58064fe398f5e79e1f49841860fdd0763f5cb350b8aeb4"
+   ]
+  },
+  "official_2digit": {
+   "file": "CONVERSION_CNO-01_CIUO-08.xls",
+   "sha256": "d5500ecebc12f1c8da7b09b4b98baa0e7547f41b7d51886d8c654bcf1eda5691"
+  }
+ },
+ "employed_records_2015": 48559,
+ "counts_by_status": {
+  "outside_personas": 387,
+  "excluded_small_sample": 50,
+  "excluded_minority": 31,
+  "majority_within_persona": 20
+ },
+ "personas": [
+  {
+   "persona_id": "P01",
+   "persona": "Software developers and analysts",
+   "ring": "core",
+   "isco08_template_codes": "2511;2512;2513;2514;2519",
+   "cno2001_codes_assigned": "81131;81201;81331",
+   "recall_2015": 0.8744,
+   "precision_2015": 0.6165,
+   "size_ratio_cno_vs_ciuo_2015": 1.418,
+   "ciuo08_employed_2015": 106197,
+   "cno_employed_2015": 150621,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P02",
+   "persona": "Database, systems and network professionals",
+   "ring": "core",
+   "isco08_template_codes": "2521;2522;2523;2529",
+   "cno2001_codes_assigned": "",
+   "recall_2015": 0.0,
+   "precision_2015": null,
+   "size_ratio_cno_vs_ciuo_2015": 0.0,
+   "ciuo08_employed_2015": 51784,
+   "cno_employed_2015": 0,
+   "review_status": "not_identifiable_in_cno2001"
+  },
+  {
+   "persona_id": "P03",
+   "persona": "ICT technicians and user support",
+   "ring": "core",
+   "isco08_template_codes": "3511;3512;3513;3514;3521;3522",
+   "cno2001_codes_assigned": "45132;45322;52332;81132;81332",
+   "recall_2015": 0.1448,
+   "precision_2015": 0.7897,
+   "size_ratio_cno_vs_ciuo_2015": 0.183,
+   "ciuo08_employed_2015": 141473,
+   "cno_employed_2015": 25947,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P04",
+   "persona": "ICT managers",
+   "ring": "core",
+   "isco08_template_codes": "1330",
+   "cno2001_codes_assigned": "",
+   "recall_2015": 0.0,
+   "precision_2015": null,
+   "size_ratio_cno_vs_ciuo_2015": 0.0,
+   "ciuo08_employed_2015": 4752,
+   "cno_employed_2015": 0,
+   "review_status": "not_identifiable_in_cno2001"
+  },
+  {
+   "persona_id": "P05",
+   "persona": "Designers (graphic, multimedia, product)",
+   "ring": "adjacent",
+   "isco08_template_codes": "2163;2166",
+   "cno2001_codes_assigned": "",
+   "recall_2015": 0.0,
+   "precision_2015": null,
+   "size_ratio_cno_vs_ciuo_2015": 0.0,
+   "ciuo08_employed_2015": 44618,
+   "cno_employed_2015": 0,
+   "review_status": "not_identifiable_in_cno2001"
+  },
+  {
+   "persona_id": "P06",
+   "persona": "Business and management analysts",
+   "ring": "adjacent",
+   "isco08_template_codes": "2421;2422",
+   "cno2001_codes_assigned": "43332",
+   "recall_2015": 0.0481,
+   "precision_2015": 0.5214,
+   "size_ratio_cno_vs_ciuo_2015": 0.092,
+   "ciuo08_employed_2015": 26869,
+   "cno_employed_2015": 2480,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P07",
+   "persona": "Finance and investment analysts",
+   "ring": "adjacent",
+   "isco08_template_codes": "2412;2413",
+   "cno2001_codes_assigned": "20311",
+   "recall_2015": 0.1745,
+   "precision_2015": 0.6867,
+   "size_ratio_cno_vs_ciuo_2015": 0.254,
+   "ciuo08_employed_2015": 21387,
+   "cno_employed_2015": 5433,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P08",
+   "persona": "Data, statistics and research specialists",
+   "ring": "adjacent",
+   "isco08_template_codes": "2120;2631;2632;3314",
+   "cno2001_codes_assigned": "",
+   "recall_2015": 0.0,
+   "precision_2015": null,
+   "size_ratio_cno_vs_ciuo_2015": 0.0,
+   "ciuo08_employed_2015": 23813,
+   "cno_employed_2015": 0,
+   "review_status": "not_identifiable_in_cno2001"
+  },
+  {
+   "persona_id": "P09",
+   "persona": "Marketing and advertising professionals",
+   "ring": "adjacent",
+   "isco08_template_codes": "2431;2432",
+   "cno2001_codes_assigned": "",
+   "recall_2015": 0.0,
+   "precision_2015": null,
+   "size_ratio_cno_vs_ciuo_2015": 0.0,
+   "ciuo08_employed_2015": 16241,
+   "cno_employed_2015": 0,
+   "review_status": "not_identifiable_in_cno2001"
+  },
+  {
+   "persona_id": "P10",
+   "persona": "Accountants and auditors",
+   "ring": "extended",
+   "isco08_template_codes": "2411",
+   "cno2001_codes_assigned": "10331;20131;20331",
+   "recall_2015": 0.7867,
+   "precision_2015": 0.8154,
+   "size_ratio_cno_vs_ciuo_2015": 0.965,
+   "ciuo08_employed_2015": 188106,
+   "cno_employed_2015": 181486,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P11",
+   "persona": "Engineers (non-ICT)",
+   "ring": "extended",
+   "isco08_template_codes": "2141;2142;2143;2144;2145;2146;2149;2151;2152;2153",
+   "cno2001_codes_assigned": "71331;80131;92331",
+   "recall_2015": 0.1578,
+   "precision_2015": 0.634,
+   "size_ratio_cno_vs_ciuo_2015": 0.249,
+   "ciuo08_employed_2015": 70152,
+   "cno_employed_2015": 17466,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P12",
+   "persona": "Business and operations managers",
+   "ring": "extended",
+   "isco08_template_codes": "1211;1212;1213;1219;1221;1222;1223;1321;1322;1323;1324;1341;1342;1343;1344;1345;1346;1349",
+   "cno2001_codes_assigned": "03001;07001;40201",
+   "recall_2015": 0.2872,
+   "precision_2015": 0.9132,
+   "size_ratio_cno_vs_ciuo_2015": 0.315,
+   "ciuo08_employed_2015": 179896,
+   "cno_employed_2015": 56581,
+   "review_status": "identifiable"
+  },
+  {
+   "persona_id": "P13",
+   "persona": "Higher-education and IT educators",
+   "ring": "extended",
+   "isco08_template_codes": "2310;2356",
+   "cno2001_codes_assigned": "41311",
+   "recall_2015": 0.4681,
+   "precision_2015": 0.7997,
+   "size_ratio_cno_vs_ciuo_2015": 0.585,
+   "ciuo08_employed_2015": 135010,
+   "cno_employed_2015": 79026,
+   "review_status": "identifiable"
+  }
+ ]
+}

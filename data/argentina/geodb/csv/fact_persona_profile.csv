@@ -1,0 +1,14 @@
+persona,ring,isco_codes,cno2001_codes,employed,interviews,pct_private_employee,pct_government_employee,pct_self_employed_or_employer,pct_firm_201_plus,pct_works_alone,pct_outside_tech_sector,pct_women,pct_university,median_age,median_income_ars,pct_ipcf_deciles_7_10,pct_works_from_home,pct_informal
+Software developers and analysts,core,2511 2512 2513 2514 2519,81131 81201 81331,76734,305,69.3,17.1,13.6,36.9,15.8,47.8,13.8,52.0,39.0,2000000.0,91.9,44.7,16.0
+"Database, systems and network professionals",core,2521 2522 2523 2529,,,0,,,,,,,,,,,,,
+ICT technicians and user support,core,3511 3512 3513 3514 3521 3522,45132 45322 52332 81132 81332,90848,433,71.5,5.7,22.8,20.5,31.5,34.2,21.2,27.5,35.0,1200000.0,76.1,52.3,23.0
+ICT managers,core,1330,,,0,,,,,,,,,,,,,
+"Designers (graphic, multimedia, product)",adjacent,2163 2166,,,0,,,,,,,,,,,,,
+Business and management analysts,adjacent,2421 2422,43332,9856,29,91.8,8.2,0.0,31.0,0.0,81.8,22.7,40.2,43.0,1000000.0,88.6,39.6,17.3
+Accountants and auditors,extended,2411,10331 20131 20331,160030,737,59.6,17.8,22.6,32.8,23.8,97.5,53.5,73.2,42.0,1500000.0,78.5,27.5,10.7
+Finance and investment analysts,adjacent,2412 2413,20311,3338,9,97.0,3.0,0.0,0.0,27.8,100.0,25.1,42.4,31.0,1120000.0,14.6,0.0,35.4
+"Data, statistics and research specialists",adjacent,2120 2631 2632 3314,,,0,,,,,,,,,,,,,
+Marketing and advertising professionals,adjacent,2431 2432,,,0,,,,,,,,,,,,,
+Engineers (non-ICT),extended,2141 2142 2143 2144 2145 2146 2149 2151 2152 2153,71331 80131 92331,5649,36,30.6,7.9,61.5,11.5,63.4,96.1,5.0,31.3,46.0,2000000.0,60.0,24.3,63.5
+Business and operations managers,extended,1211 1212 1213 1219 1221 1222 1223 1321 1322 1323 1324 1341 1342 1343 1344 1345 1346 1349,03001 07001 40201,113702,589,53.6,34.1,12.3,41.6,0.0,92.6,40.2,58.0,49.0,2000000.0,85.8,8.7,2.5
+Higher-education and IT educators,extended,2310 2356,41311,14149,75,27.5,72.5,0.0,53.2,0.0,100.0,47.9,61.2,42.0,700000.0,78.6,0.0,7.5

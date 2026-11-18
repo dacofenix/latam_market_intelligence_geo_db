@@ -1,0 +1,577 @@
+{
+ "country": "AR",
+ "layer": "K",
+ "source_id": "MEN_RA_2025; MEN_PADRON_2026",
+ "period": "2025 school year (RA 2025); register 16-06-2026",
+ "target_grades": "años corridos 9-12 (last year of ISCED 2 + ISCED 3); technical 13th-14th year excluded",
+ "K1": {
+  "schools": 13750,
+  "schools_public": 9622,
+  "note": "localizaciones (Cueanexo) with a common secondary offer; not every one teaches all four target years"
+ },
+ "K2": {
+  "y9": 781969,
+  "y10": 713089,
+  "y11": 629743,
+  "y12": 551550,
+  "total": 2676351
+ },
+ "K3": {
+  "students_public_pct": 69.9,
+  "schools_public_pct": 70.0
+ },
+ "K4": {
+  "under_18_pct": 95.1,
+  "women_pct": 50.5,
+  "rural_pct": 7.0,
+  "technical_schools_inet": 1739,
+  "technical_y13_14_students": 74806
+ },
+ "K5": {
+  "mean_students_per_school": 194.6,
+  "median": null,
+  "note": "Since 2024 the RA open bases are published aggregated by department (no school-level records), so the size distribution and the median per school cannot be computed (D-AR-04)."
+ },
+ "K6": {
+  "reach_cap100": null,
+  "note": "Needs school-level enrolment; not available in the open data."
+ },
+ "K7": [
+  {
+   "department_code": "02",
+   "department": "Ciudad Autónoma de Buenos Aires",
+   "students_target": 154723,
+   "students_y9": 43336,
+   "students_y10": 40491,
+   "students_y11": 37329,
+   "students_y12": 33567,
+   "students_technical_y13_14": 4951,
+   "students_public": 76163,
+   "students_rural": 0,
+   "students_women": 76234,
+   "students_under_18": 147154,
+   "schools": 518,
+   "schools_public": 175,
+   "schools_technical_inet": 45,
+   "mean_students_per_school": 298.7
+  },
+  {
+   "department_code": "06",
+   "department": "Buenos Aires",
+   "students_target": 1079553,
+   "students_y9": 303721,
+   "students_y10": 288582,
+   "students_y11": 259186,
+   "students_y12": 228064,
+   "students_technical_y13_14": 23598,
+   "students_public": 739809,
+   "students_rural": 26229,
+   "students_women": 538702,
+   "students_under_18": 1030953,
+   "schools": 4731,
+   "schools_public": 3042,
+   "schools_technical_inet": 461,
+   "mean_students_per_school": 228.2
+  },
+  {
+   "department_code": "10",
+   "department": "Catamarca",
+   "students_target": 25043,
+   "students_y9": 7044,
+   "students_y10": 6446,
+   "students_y11": 5994,
+   "students_y12": 5559,
+   "students_technical_y13_14": 416,
+   "students_public": 18945,
+   "students_rural": 4988,
+   "students_women": 12736,
+   "students_under_18": 23539,
+   "schools": 233,
+   "schools_public": 212,
+   "schools_technical_inet": 18,
+   "mean_students_per_school": 107.5
+  },
+  {
+   "department_code": "14",
+   "department": "Córdoba",
+   "students_target": 213021,
+   "students_y9": 62260,
+   "students_y10": 56768,
+   "students_y11": 49747,
+   "students_y12": 44246,
+   "students_technical_y13_14": 7082,
+   "students_public": 123937,
+   "students_rural": 16693,
+   "students_women": 107690,
+   "students_under_18": 203925,
+   "schools": 1103,
+   "schools_public": 675,
+   "schools_technical_inet": 245,
+   "mean_students_per_school": 193.1
+  },
+  {
+   "department_code": "18",
+   "department": "Corrientes",
+   "students_target": 60927,
+   "students_y9": 18457,
+   "students_y10": 16222,
+   "students_y11": 14105,
+   "students_y12": 12143,
+   "students_technical_y13_14": 1855,
+   "students_public": 49225,
+   "students_rural": 8386,
+   "students_women": 31965,
+   "students_under_18": 55511,
+   "schools": 340,
+   "schools_public": 259,
+   "schools_technical_inet": 64,
+   "mean_students_per_school": 179.2
+  },
+  {
+   "department_code": "22",
+   "department": "Chaco",
+   "students_target": 72622,
+   "students_y9": 23956,
+   "students_y10": 19138,
+   "students_y11": 16198,
+   "students_y12": 13330,
+   "students_technical_y13_14": 1544,
+   "students_public": 57596,
+   "students_rural": 5817,
+   "students_women": 37833,
+   "students_under_18": 67494,
+   "schools": 406,
+   "schools_public": 304,
+   "schools_technical_inet": 42,
+   "mean_students_per_school": 178.9
+  },
+  {
+   "department_code": "26",
+   "department": "Chubut",
+   "students_target": 37534,
+   "students_y9": 10757,
+   "students_y10": 10119,
+   "students_y11": 8840,
+   "students_y12": 7818,
+   "students_technical_y13_14": 1387,
+   "students_public": 31441,
+   "students_rural": 3168,
+   "students_women": 19064,
+   "students_under_18": 34893,
+   "schools": 188,
+   "schools_public": 149,
+   "schools_technical_inet": 26,
+   "mean_students_per_school": 199.6
+  },
+  {
+   "department_code": "30",
+   "department": "Entre Ríos",
+   "students_target": 73012,
+   "students_y9": 22274,
+   "students_y10": 19811,
+   "students_y11": 16528,
+   "students_y12": 14399,
+   "students_technical_y13_14": 2309,
+   "students_public": 52261,
+   "students_rural": 9590,
+   "students_women": 37986,
+   "students_under_18": 67662,
+   "schools": 581,
+   "schools_public": 433,
+   "schools_technical_inet": 88,
+   "mean_students_per_school": 125.7
+  },
+  {
+   "department_code": "34",
+   "department": "Formosa",
+   "students_target": 35751,
+   "students_y9": 10872,
+   "students_y10": 9501,
+   "students_y11": 8451,
+   "students_y12": 6927,
+   "students_technical_y13_14": 841,
+   "students_public": 31519,
+   "students_rural": 6409,
+   "students_women": 18378,
+   "students_under_18": 32587,
+   "schools": 343,
+   "schools_public": 319,
+   "schools_technical_inet": 29,
+   "mean_students_per_school": 104.2
+  },
+  {
+   "department_code": "38",
+   "department": "Jujuy",
+   "students_target": 51878,
+   "students_y9": 15392,
+   "students_y10": 13572,
+   "students_y11": 12186,
+   "students_y12": 10728,
+   "students_technical_y13_14": 1803,
+   "students_public": 43083,
+   "students_rural": 4119,
+   "students_women": 26185,
+   "students_under_18": 48024,
+   "schools": 253,
+   "schools_public": 217,
+   "schools_technical_inet": 30,
+   "mean_students_per_school": 205.1
+  },
+  {
+   "department_code": "42",
+   "department": "La Pampa",
+   "students_target": 21197,
+   "students_y9": 6235,
+   "students_y10": 5887,
+   "students_y11": 4866,
+   "students_y12": 4209,
+   "students_technical_y13_14": 311,
+   "students_public": 17323,
+   "students_rural": 2107,
+   "students_women": 10753,
+   "students_under_18": 20195,
+   "schools": 168,
+   "schools_public": 144,
+   "schools_technical_inet": 17,
+   "mean_students_per_school": 126.2
+  },
+  {
+   "department_code": "46",
+   "department": "La Rioja",
+   "students_target": 23498,
+   "students_y9": 6397,
+   "students_y10": 6139,
+   "students_y11": 5637,
+   "students_y12": 5325,
+   "students_technical_y13_14": 837,
+   "students_public": 19598,
+   "students_rural": 2827,
+   "students_women": 12007,
+   "students_under_18": 22426,
+   "schools": 186,
+   "schools_public": 159,
+   "schools_technical_inet": 23,
+   "mean_students_per_school": 126.3
+  },
+  {
+   "department_code": "50",
+   "department": "Mendoza",
+   "students_target": 114361,
+   "students_y9": 33250,
+   "students_y10": 30562,
+   "students_y11": 26679,
+   "students_y12": 23870,
+   "students_technical_y13_14": 4213,
+   "students_public": 86785,
+   "students_rural": 16071,
+   "students_women": 58217,
+   "students_under_18": 110114,
+   "schools": 415,
+   "schools_public": 285,
+   "schools_technical_inet": 86,
+   "mean_students_per_school": 275.6
+  },
+  {
+   "department_code": "54",
+   "department": "Misiones",
+   "students_target": 76070,
+   "students_y9": 25764,
+   "students_y10": 20271,
+   "students_y11": 16407,
+   "students_y12": 13628,
+   "students_technical_y13_14": 1918,
+   "students_public": 52544,
+   "students_rural": 11618,
+   "students_women": 39680,
+   "students_under_18": 71757,
+   "schools": 634,
+   "schools_public": 489,
+   "schools_technical_inet": 75,
+   "mean_students_per_school": 120.0
+  },
+  {
+   "department_code": "58",
+   "department": "Neuquén",
+   "students_target": 46919,
+   "students_y9": 14645,
+   "students_y10": 11884,
+   "students_y11": 11044,
+   "students_y12": 9346,
+   "students_technical_y13_14": 2724,
+   "students_public": 39784,
+   "students_rural": 2260,
+   "students_women": 23307,
+   "students_under_18": 43955,
+   "schools": 171,
+   "schools_public": 125,
+   "schools_technical_inet": 35,
+   "mean_students_per_school": 274.4
+  },
+  {
+   "department_code": "62",
+   "department": "Río Negro",
+   "students_target": 48755,
+   "students_y9": 14145,
+   "students_y10": 12700,
+   "students_y11": 11643,
+   "students_y12": 10267,
+   "students_technical_y13_14": 1931,
+   "students_public": 38072,
+   "students_rural": 2996,
+   "students_women": 24218,
+   "students_under_18": 46625,
+   "schools": 226,
+   "schools_public": 165,
+   "schools_technical_inet": 42,
+   "mean_students_per_school": 215.7
+  },
+  {
+   "department_code": "66",
+   "department": "Salta",
+   "students_target": 90359,
+   "students_y9": 28778,
+   "students_y10": 23936,
+   "students_y11": 20280,
+   "students_y12": 17365,
+   "students_technical_y13_14": 2880,
+   "students_public": 71055,
+   "students_rural": 8446,
+   "students_women": 46433,
+   "students_under_18": 82810,
+   "schools": 350,
+   "schools_public": 250,
+   "schools_technical_inet": 72,
+   "mean_students_per_school": 258.2
+  },
+  {
+   "department_code": "70",
+   "department": "San Juan",
+   "students_target": 45496,
+   "students_y9": 13635,
+   "students_y10": 11914,
+   "students_y11": 10645,
+   "students_y12": 9302,
+   "students_technical_y13_14": 1586,
+   "students_public": 34108,
+   "students_rural": 7943,
+   "students_women": 23304,
+   "students_under_18": 41073,
+   "schools": 286,
+   "schools_public": 237,
+   "schools_technical_inet": 30,
+   "mean_students_per_school": 159.1
+  },
+  {
+   "department_code": "74",
+   "department": "San Luis",
+   "students_target": 30975,
+   "students_y9": 8511,
+   "students_y10": 8006,
+   "students_y11": 7477,
+   "students_y12": 6981,
+   "students_technical_y13_14": 1218,
+   "students_public": 26487,
+   "students_rural": 3955,
+   "students_women": 15873,
+   "students_under_18": 29178,
+   "schools": 391,
+   "schools_public": 350,
+   "schools_technical_inet": 34,
+   "mean_students_per_school": 79.2
+  },
+  {
+   "department_code": "78",
+   "department": "Santa Cruz",
+   "students_target": 23152,
+   "students_y9": 6342,
+   "students_y10": 6180,
+   "students_y11": 5886,
+   "students_y12": 4744,
+   "students_technical_y13_14": 1002,
+   "students_public": 19310,
+   "students_rural": 403,
+   "students_women": 11516,
+   "students_under_18": 22185,
+   "schools": 91,
+   "schools_public": 67,
+   "schools_technical_inet": 18,
+   "mean_students_per_school": 254.4
+  },
+  {
+   "department_code": "82",
+   "department": "Santa Fe",
+   "students_target": 185441,
+   "students_y9": 57268,
+   "students_y10": 51190,
+   "students_y11": 41790,
+   "students_y12": 35193,
+   "students_technical_y13_14": 5932,
+   "students_public": 122266,
+   "students_rural": 12113,
+   "students_women": 93286,
+   "students_under_18": 173774,
+   "schools": 952,
+   "schools_public": 615,
+   "schools_technical_inet": 172,
+   "mean_students_per_school": 194.8
+  },
+  {
+   "department_code": "86",
+   "department": "Santiago del Estero",
+   "students_target": 58492,
+   "students_y9": 17918,
+   "students_y10": 15570,
+   "students_y11": 13332,
+   "students_y12": 11672,
+   "students_technical_y13_14": 1272,
+   "students_public": 43631,
+   "students_rural": 13551,
+   "students_women": 31385,
+   "students_under_18": 54712,
+   "schools": 572,
+   "schools_public": 494,
+   "schools_technical_inet": 34,
+   "mean_students_per_school": 102.3
+  },
+  {
+   "department_code": "90",
+   "department": "Tucumán",
+   "students_target": 96093,
+   "students_y9": 27961,
+   "students_y10": 25169,
+   "students_y11": 22661,
+   "students_y12": 20302,
+   "students_technical_y13_14": 2802,
+   "students_public": 67349,
+   "students_rural": 16917,
+   "students_women": 49304,
+   "students_under_18": 92899,
+   "schools": 559,
+   "schools_public": 420,
+   "schools_technical_inet": 46,
+   "mean_students_per_school": 171.9
+  },
+  {
+   "department_code": "94",
+   "department": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+   "students_target": 11479,
+   "students_y9": 3051,
+   "students_y10": 3031,
+   "students_y11": 2832,
+   "students_y12": 2565,
+   "students_technical_y13_14": 394,
+   "students_public": 8451,
+   "students_rural": 14,
+   "students_women": 5522,
+   "students_under_18": 11019,
+   "schools": 53,
+   "schools_public": 37,
+   "schools_technical_inet": 7,
+   "mean_students_per_school": 216.6
+  }
+ ],
+ "unmatched_ra_departments": [
+  {
+   "provincia": "Buenos Aires",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Catamarca",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Chaco",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Chubut",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Córdoba",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Corrientes",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Entre Ríos",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Formosa",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Jujuy",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "La Pampa",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "La Rioja",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Mendoza",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Misiones",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Neuquén",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Río Negro",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Salta",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "San Juan",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "San Luis",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Santa Cruz",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Santa Fe",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Santiago del Estero",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Tierra del Fuego",
+   "departamento": "Enmascarado"
+  },
+  {
+   "provincia": "Tucumán",
+   "departamento": "Enmascarado"
+  }
+ ],
+ "checks": {
+  "grades_add_to_total": true,
+  "provinces_add_to_total": true,
+  "department_rows_cover_pct": 98.08
+ },
+ "files": {
+  "ra_matricula": "79ce9c3f3bb5dd27fb1e6b8effb5b10ad922f82363db9dfb8c3f2d9180fd2b73",
+  "ra_edad": "052f9a4886547dca09a0e8be8468e0c694d4e226679c962b7d28bab5ca36b75c",
+  "padron": "b52c9f156f9535295227d93a350dd0e189138f483bfa48d2a27a4057e135e1de"
+ }
+}

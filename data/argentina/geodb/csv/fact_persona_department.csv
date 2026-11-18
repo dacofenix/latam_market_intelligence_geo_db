@@ -1,0 +1,145 @@
+persona,department_code,department,employed,interviews
+Software developers and analysts,02,Ciudad Autónoma de Buenos Aires,26939,53
+Software developers and analysts,06,Buenos Aires,30670,74
+Software developers and analysts,10,Catamarca,268,7
+Software developers and analysts,14,Córdoba,5933,28
+Software developers and analysts,18,Corrientes,215,3
+Software developers and analysts,22,Chaco,283,3
+Software developers and analysts,26,Chubut,580,9
+Software developers and analysts,30,Entre Ríos,790,18
+Software developers and analysts,34,Formosa,204,5
+Software developers and analysts,38,Jujuy,244,4
+Software developers and analysts,42,La Pampa,189,5
+Software developers and analysts,46,La Rioja,308,7
+Software developers and analysts,50,Mendoza,1510,10
+Software developers and analysts,54,Misiones,401,5
+Software developers and analysts,58,Neuquén,344,6
+Software developers and analysts,62,Río Negro,156,5
+Software developers and analysts,66,Salta,633,8
+Software developers and analysts,70,San Juan,418,4
+Software developers and analysts,74,San Luis,384,7
+Software developers and analysts,78,Santa Cruz,24,1
+Software developers and analysts,82,Santa Fe,4396,26
+Software developers and analysts,86,Santiago del Estero,204,3
+Software developers and analysts,90,Tucumán,1550,12
+Software developers and analysts,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",92,2
+ICT technicians and user support,02,Ciudad Autónoma de Buenos Aires,23830,48
+ICT technicians and user support,06,Buenos Aires,39148,110
+ICT technicians and user support,10,Catamarca,323,10
+ICT technicians and user support,14,Córdoba,7078,37
+ICT technicians and user support,18,Corrientes,698,4
+ICT technicians and user support,22,Chaco,967,8
+ICT technicians and user support,26,Chubut,1003,17
+ICT technicians and user support,30,Entre Ríos,1175,26
+ICT technicians and user support,34,Formosa,136,3
+ICT technicians and user support,38,Jujuy,1061,14
+ICT technicians and user support,42,La Pampa,543,11
+ICT technicians and user support,46,La Rioja,583,13
+ICT technicians and user support,50,Mendoza,3268,25
+ICT technicians and user support,54,Misiones,872,11
+ICT technicians and user support,58,Neuquén,187,1
+ICT technicians and user support,62,Río Negro,100,3
+ICT technicians and user support,66,Salta,861,10
+ICT technicians and user support,70,San Juan,1551,15
+ICT technicians and user support,74,San Luis,537,10
+ICT technicians and user support,78,Santa Cruz,139,3
+ICT technicians and user support,82,Santa Fe,4606,25
+ICT technicians and user support,86,Santiago del Estero,128,2
+ICT technicians and user support,90,Tucumán,1530,14
+ICT technicians and user support,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",526,13
+Business and management analysts,02,Ciudad Autónoma de Buenos Aires,4379,7
+Business and management analysts,06,Buenos Aires,4780,11
+Business and management analysts,10,Catamarca,27,1
+Business and management analysts,30,Entre Ríos,68,1
+Business and management analysts,34,Formosa,87,1
+Business and management analysts,46,La Rioja,120,3
+Business and management analysts,50,Mendoza,115,1
+Business and management analysts,54,Misiones,83,1
+Business and management analysts,70,San Juan,96,1
+Business and management analysts,78,Santa Cruz,14,1
+Business and management analysts,82,Santa Fe,86,1
+Accountants and auditors,02,Ciudad Autónoma de Buenos Aires,53408,100
+Accountants and auditors,06,Buenos Aires,54376,153
+Accountants and auditors,10,Catamarca,1035,20
+Accountants and auditors,14,Córdoba,9790,56
+Accountants and auditors,18,Corrientes,1281,15
+Accountants and auditors,22,Chaco,1372,11
+Accountants and auditors,26,Chubut,844,11
+Accountants and auditors,30,Entre Ríos,2081,43
+Accountants and auditors,34,Formosa,863,15
+Accountants and auditors,38,Jujuy,1403,20
+Accountants and auditors,42,La Pampa,495,14
+Accountants and auditors,46,La Rioja,690,13
+Accountants and auditors,50,Mendoza,5234,37
+Accountants and auditors,54,Misiones,1313,15
+Accountants and auditors,58,Neuquén,2030,17
+Accountants and auditors,62,Río Negro,198,7
+Accountants and auditors,66,Salta,2296,26
+Accountants and auditors,70,San Juan,2728,23
+Accountants and auditors,74,San Luis,502,8
+Accountants and auditors,78,Santa Cruz,515,10
+Accountants and auditors,82,Santa Fe,12079,65
+Accountants and auditors,86,Santiago del Estero,310,4
+Accountants and auditors,90,Tucumán,4285,36
+Accountants and auditors,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",902,18
+Finance and investment analysts,02,Ciudad Autónoma de Buenos Aires,636,1
+Finance and investment analysts,06,Buenos Aires,2461,4
+Finance and investment analysts,18,Corrientes,99,1
+Finance and investment analysts,26,Chubut,82,1
+Finance and investment analysts,74,San Luis,40,1
+Finance and investment analysts,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",21,1
+Engineers (non-ICT),06,Buenos Aires,3438,10
+Engineers (non-ICT),14,Córdoba,410,5
+Engineers (non-ICT),26,Chubut,141,2
+Engineers (non-ICT),30,Entre Ríos,58,2
+Engineers (non-ICT),38,Jujuy,47,1
+Engineers (non-ICT),50,Mendoza,268,2
+Engineers (non-ICT),66,Salta,406,5
+Engineers (non-ICT),70,San Juan,370,2
+Engineers (non-ICT),74,San Luis,71,2
+Engineers (non-ICT),78,Santa Cruz,30,1
+Engineers (non-ICT),82,Santa Fe,128,1
+Engineers (non-ICT),90,Tucumán,283,3
+Business and operations managers,02,Ciudad Autónoma de Buenos Aires,34721,62
+Business and operations managers,06,Buenos Aires,44504,128
+Business and operations managers,10,Catamarca,560,17
+Business and operations managers,14,Córdoba,4106,27
+Business and operations managers,18,Corrientes,666,8
+Business and operations managers,22,Chaco,581,8
+Business and operations managers,26,Chubut,2526,33
+Business and operations managers,30,Entre Ríos,1302,32
+Business and operations managers,34,Formosa,204,4
+Business and operations managers,38,Jujuy,647,14
+Business and operations managers,42,La Pampa,519,12
+Business and operations managers,46,La Rioja,384,8
+Business and operations managers,50,Mendoza,3621,26
+Business and operations managers,54,Misiones,898,13
+Business and operations managers,58,Neuquén,1678,19
+Business and operations managers,62,Río Negro,196,9
+Business and operations managers,66,Salta,1522,17
+Business and operations managers,70,San Juan,1598,14
+Business and operations managers,74,San Luis,1002,17
+Business and operations managers,78,Santa Cruz,882,19
+Business and operations managers,82,Santa Fe,6965,40
+Business and operations managers,86,Santiago del Estero,455,6
+Business and operations managers,90,Tucumán,2873,26
+Business and operations managers,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",1292,30
+Higher-education and IT educators,02,Ciudad Autónoma de Buenos Aires,670,3
+Higher-education and IT educators,06,Buenos Aires,8968,23
+Higher-education and IT educators,10,Catamarca,23,1
+Higher-education and IT educators,14,Córdoba,426,5
+Higher-education and IT educators,18,Corrientes,104,2
+Higher-education and IT educators,22,Chaco,326,5
+Higher-education and IT educators,26,Chubut,124,1
+Higher-education and IT educators,30,Entre Ríos,88,3
+Higher-education and IT educators,38,Jujuy,110,2
+Higher-education and IT educators,42,La Pampa,60,1
+Higher-education and IT educators,50,Mendoza,1308,8
+Higher-education and IT educators,54,Misiones,208,2
+Higher-education and IT educators,58,Neuquén,253,3
+Higher-education and IT educators,62,Río Negro,60,2
+Higher-education and IT educators,70,San Juan,140,2
+Higher-education and IT educators,74,San Luis,87,2
+Higher-education and IT educators,82,Santa Fe,1046,8
+Higher-education and IT educators,86,Santiago del Estero,93,1
+Higher-education and IT educators,94,"Tierra del Fuego, Antártida e Islas del Atlántico Sur",56,1

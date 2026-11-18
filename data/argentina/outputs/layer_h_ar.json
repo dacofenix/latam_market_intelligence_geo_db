@@ -1,0 +1,175 @@
+{
+ "country": "AR",
+ "layer": "H",
+ "source_id": "INDEC_EPH_2025",
+ "period": "2025 (Q1-Q4 average)",
+ "rule": "direct cross-tabulation persona x agglomerate x buyer type; never products of marginal percentages",
+ "buyer_types": [
+  "Government employee",
+  "Employee, firm 201+",
+  "Employee, firm 11-200",
+  "Employee, firm up to 10",
+  "Self-employed or employer",
+  "Other or unknown"
+ ],
+ "confidence_rule": "high >= 1,000 interviews, medium 100-999, low < 100",
+ "cells": 582,
+ "cells_by_confidence": {
+  "low": 582
+ },
+ "checks": {
+  "cells_add_to_persona_totals": true
+ },
+ "top_cells": [
+  {
+   "persona": "Business and operations managers",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 15256,
+   "interviews": 22,
+   "confidence": "low"
+  },
+  {
+   "persona": "Accountants and auditors",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 14194,
+   "interviews": 22,
+   "confidence": "low"
+  },
+  {
+   "persona": "Accountants and auditors",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Self-employed or employer",
+   "employed": 13943,
+   "interviews": 28,
+   "confidence": "low"
+  },
+  {
+   "persona": "Accountants and auditors",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 13738,
+   "interviews": 24,
+   "confidence": "low"
+  },
+  {
+   "persona": "Accountants and auditors",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Employee, firm 11-200",
+   "employed": 11728,
+   "interviews": 24,
+   "confidence": "low"
+  },
+  {
+   "persona": "Business and operations managers",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 11-200",
+   "employed": 11469,
+   "interviews": 20,
+   "confidence": "low"
+  },
+  {
+   "persona": "ICT technicians and user support",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Other or unknown",
+   "employed": 11332,
+   "interviews": 20,
+   "confidence": "low"
+  },
+  {
+   "persona": "Business and operations managers",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Government employee",
+   "employed": 10163,
+   "interviews": 18,
+   "confidence": "low"
+  },
+  {
+   "persona": "Business and operations managers",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Employee, firm 11-200",
+   "employed": 8246,
+   "interviews": 14,
+   "confidence": "low"
+  },
+  {
+   "persona": "Accountants and auditors",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Government employee",
+   "employed": 7634,
+   "interviews": 11,
+   "confidence": "low"
+  },
+  {
+   "persona": "ICT technicians and user support",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 11-200",
+   "employed": 7480,
+   "interviews": 14,
+   "confidence": "low"
+  },
+  {
+   "persona": "Software developers and analysts",
+   "municipality_code": "02007",
+   "department_code": "02",
+   "city": "Ciudad Autónoma de Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 7300,
+   "interviews": 16,
+   "confidence": "low"
+  },
+  {
+   "persona": "Software developers and analysts",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 11-200",
+   "employed": 7262,
+   "interviews": 13,
+   "confidence": "low"
+  },
+  {
+   "persona": "Business and operations managers",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 7165,
+   "interviews": 11,
+   "confidence": "low"
+  },
+  {
+   "persona": "Software developers and analysts",
+   "municipality_code": "06427",
+   "department_code": "06",
+   "city": "Partidos del Gran Buenos Aires",
+   "buyer_type": "Employee, firm 201+",
+   "employed": 6838,
+   "interviews": 12,
+   "confidence": "low"
+  }
+ ]
+}

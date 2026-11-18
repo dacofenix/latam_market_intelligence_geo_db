@@ -1,0 +1,398 @@
+{
+ "country": "AR",
+ "layer": "L",
+ "source_id": "SPU_ANUARIO_2024; MEN_RA_2025; INDEC_CENSO_2022; MEN_PADRON_2026",
+ "L1": {
+  "university_students_2024": 2608231,
+  "postgraduate_students_2024": 186694,
+  "institutions_2024": 142,
+  "snu_students_2025": 966742
+ },
+ "L2": {
+  "pct_public": 79.2,
+  "pct_distance": 9.6,
+  "university_vs_non_university_pct": 73.0
+ },
+ "L3": {
+  "ict_students": 186240,
+  "ict_share_pct": 7.1
+ },
+ "L4": {
+  "university_new_entrants_2024": 705454,
+  "ict_new_entrants_2024": 61837
+ },
+ "L5": {
+  "vocational_training_centres": 3446,
+  "of_them_inet": 1336,
+  "enrolment": null,
+  "note": "Vocational training (Formación Profesional, INET) enrolment is not in the RA open bases; only centres are counted, from the Padrón (D-AR-05)."
+ },
+ "L6": {
+  "by_province": [
+   {
+    "department_code": "02",
+    "department": "Ciudad Autónoma de Buenos Aires",
+    "university_students_census2022": 263810,
+    "postgraduate_students_census2022": 56196,
+    "tertiary_non_university_students_census2022": 93897,
+    "snu_students_ra2025": 125748,
+    "snu_institutions_padron": 245,
+    "vocational_training_centres_padron": 243,
+    "university_students_per_100k": 8450.8,
+    "higher_ed_students_per_100k": 11458.7
+   },
+   {
+    "department_code": "06",
+    "department": "Buenos Aires",
+    "university_students_census2022": 808850,
+    "postgraduate_students_census2022": 92852,
+    "tertiary_non_university_students_census2022": 425248,
+    "snu_students_ra2025": 263261,
+    "snu_institutions_padron": 637,
+    "vocational_training_centres_padron": 534,
+    "university_students_per_100k": 4615.7,
+    "higher_ed_students_per_100k": 7042.3
+   },
+   {
+    "department_code": "10",
+    "department": "Catamarca",
+    "university_students_census2022": 16030,
+    "postgraduate_students_census2022": 2715,
+    "tertiary_non_university_students_census2022": 19443,
+    "snu_students_ra2025": 13708,
+    "snu_institutions_padron": 33,
+    "vocational_training_centres_padron": 64,
+    "university_students_per_100k": 3731.7,
+    "higher_ed_students_per_100k": 8257.9
+   },
+   {
+    "department_code": "14",
+    "department": "Córdoba",
+    "university_students_census2022": 209323,
+    "postgraduate_students_census2022": 25176,
+    "tertiary_non_university_students_census2022": 80613,
+    "snu_students_ra2025": 66868,
+    "snu_institutions_padron": 248,
+    "vocational_training_centres_padron": 58,
+    "university_students_per_100k": 5449.8,
+    "higher_ed_students_per_100k": 7548.6
+   },
+   {
+    "department_code": "18",
+    "department": "Corrientes",
+    "university_students_census2022": 41800,
+    "postgraduate_students_census2022": 6477,
+    "tertiary_non_university_students_census2022": 42901,
+    "snu_students_ra2025": 38642,
+    "snu_institutions_padron": 103,
+    "vocational_training_centres_padron": 129,
+    "university_students_per_100k": 3446.9,
+    "higher_ed_students_per_100k": 6984.5
+   },
+   {
+    "department_code": "22",
+    "department": "Chaco",
+    "university_students_census2022": 34205,
+    "postgraduate_students_census2022": 6226,
+    "tertiary_non_university_students_census2022": 47327,
+    "snu_students_ra2025": 57120,
+    "snu_institutions_padron": 171,
+    "vocational_training_centres_padron": 80,
+    "university_students_per_100k": 3028.0,
+    "higher_ed_students_per_100k": 7217.7
+   },
+   {
+    "department_code": "26",
+    "department": "Chubut",
+    "university_students_census2022": 23382,
+    "postgraduate_students_census2022": 3387,
+    "tertiary_non_university_students_census2022": 15685,
+    "snu_students_ra2025": 10062,
+    "snu_institutions_padron": 53,
+    "vocational_training_centres_padron": 53,
+    "university_students_per_100k": 3945.5,
+    "higher_ed_students_per_100k": 6592.2
+   },
+   {
+    "department_code": "30",
+    "department": "Entre Ríos",
+    "university_students_census2022": 55421,
+    "postgraduate_students_census2022": 8036,
+    "tertiary_non_university_students_census2022": 36704,
+    "snu_students_ra2025": 22536,
+    "snu_institutions_padron": 100,
+    "vocational_training_centres_padron": 414,
+    "university_students_per_100k": 3887.6,
+    "higher_ed_students_per_100k": 6462.3
+   },
+   {
+    "department_code": "34",
+    "department": "Formosa",
+    "university_students_census2022": 17520,
+    "postgraduate_students_census2022": 2765,
+    "tertiary_non_university_students_census2022": 20046,
+    "snu_students_ra2025": 9161,
+    "snu_institutions_padron": 45,
+    "vocational_training_centres_padron": 143,
+    "university_students_per_100k": 2884.3,
+    "higher_ed_students_per_100k": 6184.5
+   },
+   {
+    "department_code": "38",
+    "department": "Jujuy",
+    "university_students_census2022": 32132,
+    "postgraduate_students_census2022": 4196,
+    "tertiary_non_university_students_census2022": 41717,
+    "snu_students_ra2025": 27780,
+    "snu_institutions_padron": 60,
+    "vocational_training_centres_padron": 50,
+    "university_students_per_100k": 3959.0,
+    "higher_ed_students_per_100k": 9099.1
+   },
+   {
+    "department_code": "42",
+    "department": "La Pampa",
+    "university_students_census2022": 15055,
+    "postgraduate_students_census2022": 2073,
+    "tertiary_non_university_students_census2022": 5547,
+    "snu_students_ra2025": 5020,
+    "snu_institutions_padron": 28,
+    "vocational_training_centres_padron": 63,
+    "university_students_per_100k": 4160.5,
+    "higher_ed_students_per_100k": 5693.4
+   },
+   {
+    "department_code": "46",
+    "department": "La Rioja",
+    "university_students_census2022": 28296,
+    "postgraduate_students_census2022": 2632,
+    "tertiary_non_university_students_census2022": 12124,
+    "snu_students_ra2025": 7170,
+    "snu_institutions_padron": 37,
+    "vocational_training_centres_padron": 51,
+    "university_students_per_100k": 7371.3,
+    "higher_ed_students_per_100k": 10529.7
+   },
+   {
+    "department_code": "50",
+    "department": "Mendoza",
+    "university_students_census2022": 81784,
+    "postgraduate_students_census2022": 12638,
+    "tertiary_non_university_students_census2022": 56045,
+    "snu_students_ra2025": 37182,
+    "snu_institutions_padron": 98,
+    "vocational_training_centres_padron": 149,
+    "university_students_per_100k": 4002.1,
+    "higher_ed_students_per_100k": 6744.6
+   },
+   {
+    "department_code": "54",
+    "department": "Misiones",
+    "university_students_census2022": 38562,
+    "postgraduate_students_census2022": 5952,
+    "tertiary_non_university_students_census2022": 35487,
+    "snu_students_ra2025": 33251,
+    "snu_institutions_padron": 145,
+    "vocational_training_centres_padron": 252,
+    "university_students_per_100k": 3015.3,
+    "higher_ed_students_per_100k": 5790.2
+   },
+   {
+    "department_code": "58",
+    "department": "Neuquén",
+    "university_students_census2022": 26123,
+    "postgraduate_students_census2022": 4620,
+    "tertiary_non_university_students_census2022": 22290,
+    "snu_students_ra2025": 21792,
+    "snu_institutions_padron": 60,
+    "vocational_training_centres_padron": 98,
+    "university_students_per_100k": 3675.1,
+    "higher_ed_students_per_100k": 6810.9
+   },
+   {
+    "department_code": "62",
+    "department": "Río Negro",
+    "university_students_census2022": 33889,
+    "postgraduate_students_census2022": 4645,
+    "tertiary_non_university_students_census2022": 20892,
+    "snu_students_ra2025": 21766,
+    "snu_institutions_padron": 71,
+    "vocational_training_centres_padron": 144,
+    "university_students_per_100k": 4513.9,
+    "higher_ed_students_per_100k": 7296.7
+   },
+   {
+    "department_code": "66",
+    "department": "Salta",
+    "university_students_census2022": 56167,
+    "postgraduate_students_census2022": 7451,
+    "tertiary_non_university_students_census2022": 55354,
+    "snu_students_ra2025": 52501,
+    "snu_institutions_padron": 104,
+    "vocational_training_centres_padron": 89,
+    "university_students_per_100k": 3896.8,
+    "higher_ed_students_per_100k": 7737.3
+   },
+   {
+    "department_code": "70",
+    "department": "San Juan",
+    "university_students_census2022": 37822,
+    "postgraduate_students_census2022": 4970,
+    "tertiary_non_university_students_census2022": 19434,
+    "snu_students_ra2025": 12531,
+    "snu_institutions_padron": 47,
+    "vocational_training_centres_padron": 128,
+    "university_students_per_100k": 4596.4,
+    "higher_ed_students_per_100k": 6958.2
+   },
+   {
+    "department_code": "74",
+    "department": "San Luis",
+    "university_students_census2022": 34566,
+    "postgraduate_students_census2022": 3868,
+    "tertiary_non_university_students_census2022": 10200,
+    "snu_students_ra2025": 10105,
+    "snu_institutions_padron": 28,
+    "vocational_training_centres_padron": 18,
+    "university_students_per_100k": 6376.7,
+    "higher_ed_students_per_100k": 8258.4
+   },
+   {
+    "department_code": "78",
+    "department": "Santa Cruz",
+    "university_students_census2022": 14871,
+    "postgraduate_students_census2022": 2359,
+    "tertiary_non_university_students_census2022": 6874,
+    "snu_students_ra2025": 3175,
+    "snu_institutions_padron": 10,
+    "vocational_training_centres_padron": 30,
+    "university_students_per_100k": 4409.8,
+    "higher_ed_students_per_100k": 6448.2
+   },
+   {
+    "department_code": "82",
+    "department": "Santa Fe",
+    "university_students_census2022": 144635,
+    "postgraduate_students_census2022": 22014,
+    "tertiary_non_university_students_census2022": 92147,
+    "snu_students_ra2025": 68338,
+    "snu_institutions_padron": 224,
+    "vocational_training_centres_padron": 302,
+    "university_students_per_100k": 4080.1,
+    "higher_ed_students_per_100k": 6679.5
+   },
+   {
+    "department_code": "86",
+    "department": "Santiago del Estero",
+    "university_students_census2022": 26122,
+    "postgraduate_students_census2022": 4516,
+    "tertiary_non_university_students_census2022": 34876,
+    "snu_students_ra2025": 18994,
+    "snu_institutions_padron": 71,
+    "vocational_training_centres_padron": 85,
+    "university_students_per_100k": 2462.2,
+    "higher_ed_students_per_100k": 5749.6
+   },
+   {
+    "department_code": "90",
+    "department": "Tucumán",
+    "university_students_census2022": 82626,
+    "postgraduate_students_census2022": 10068,
+    "tertiary_non_university_students_census2022": 54067,
+    "snu_students_ra2025": 33509,
+    "snu_institutions_padron": 102,
+    "vocational_training_centres_padron": 256,
+    "university_students_per_100k": 4771.1,
+    "higher_ed_students_per_100k": 7893.0
+   },
+   {
+    "department_code": "94",
+    "department": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "university_students_census2022": 8413,
+    "postgraduate_students_census2022": 1905,
+    "tertiary_non_university_students_census2022": 7388,
+    "snu_students_ra2025": 6522,
+    "snu_institutions_padron": 18,
+    "vocational_training_centres_padron": 13,
+    "university_students_per_100k": 4529.6,
+    "higher_ed_students_per_100k": 8507.4
+   }
+  ]
+ },
+ "L7": {
+  "last_school_year_y12_2025": 551550,
+  "university_new_entrants_2024": 705454,
+  "technical_y13_14_2025": 74806
+ },
+ "national": {
+  "students_undergraduate": 2608231,
+  "new_entrants": 705454,
+  "graduates": 145235,
+  "students_public": 2066151,
+  "students_private": 542080,
+  "students_postgraduate": 186694,
+  "students_distance": 250511,
+  "pct_distance": 9.6,
+  "pct_public": 79.2,
+  "pct_women": 61.2,
+  "ict_discipline_informatica_students": 186240,
+  "ict_discipline_informatica_new_entrants": 61837,
+  "ict_discipline_informatica_graduates": 5234,
+  "ict_share_pct": 7.1
+ },
+ "regions_cpres": [
+  {
+   "region_cpres": "Bonaerense",
+   "students": 290284,
+   "new_entrants": 85476,
+   "graduates": 16566,
+   "applied_sciences_students": 78845
+  },
+  {
+   "region_cpres": "Centro",
+   "students": 615647,
+   "new_entrants": 148910,
+   "graduates": 33225,
+   "applied_sciences_students": 159851
+  },
+  {
+   "region_cpres": "Metropolitana",
+   "students": 1004629,
+   "new_entrants": 286234,
+   "graduates": 65318,
+   "applied_sciences_students": 258927
+  },
+  {
+   "region_cpres": "Noreste",
+   "students": 145328,
+   "new_entrants": 40541,
+   "graduates": 7786,
+   "applied_sciences_students": 35055
+  },
+  {
+   "region_cpres": "Noroeste",
+   "students": 246590,
+   "new_entrants": 60866,
+   "graduates": 8106,
+   "applied_sciences_students": 63377
+  },
+  {
+   "region_cpres": "Nuevo Cuyo",
+   "students": 184960,
+   "new_entrants": 48474,
+   "graduates": 10397,
+   "applied_sciences_students": 48029
+  },
+  {
+   "region_cpres": "Sur",
+   "students": 120793,
+   "new_entrants": 34953,
+   "graduates": 3837,
+   "applied_sciences_students": 30502
+  }
+ ],
+ "checks": {
+  "snu_women_share_pct": 70.2
+ },
+ "limitations": "University data are from the SPU Anuario 2024 (advance, published 2026-08-14). Province figures are census attendance by residence (2022)."
+}

@@ -1,0 +1,192 @@
+persona,municipality_code,department_code,metro_area,employed,interviews
+Software developers and analysts,06441,06,Gran La Plata,3836,12
+Software developers and analysts,06056,06,Bahía Blanca-Cerri,370,4
+Software developers and analysts,82084,82,Gran Rosario,2498,12
+Software developers and analysts,82063,82,Gran Santa Fe,1898,14
+Software developers and analysts,30084,30,Gran Paraná,597,10
+Software developers and analysts,54028,54,Posadas,401,5
+Software developers and analysts,22140,22,Gran Resistencia,283,3
+Software developers and analysts,26021,26,Comodoro Rivadavia-Rada Tilly,230,3
+Software developers and analysts,50007,50,Gran Mendoza,1510,10
+Software developers and analysts,18021,18,Corrientes,215,3
+Software developers and analysts,14014,14,Gran Córdoba,5640,21
+Software developers and analysts,30015,30,Concordia,193,8
+Software developers and analysts,34014,34,Formosa,204,5
+Software developers and analysts,58035,58,Neuquén-Plottier,344,6
+Software developers and analysts,86049,86,Santiago del Estero-La Banda,204,3
+Software developers and analysts,38021,38,Jujuy-Palpalá,244,4
+Software developers and analysts,78021,78,Río Gallegos,24,1
+Software developers and analysts,10049,10,Gran Catamarca,268,7
+Software developers and analysts,66028,66,Gran Salta,633,8
+Software developers and analysts,46014,46,La Rioja,308,7
+Software developers and analysts,74056,74,Gran San Luis,384,7
+Software developers and analysts,70028,70,Gran San Juan,418,4
+Software developers and analysts,90084,90,Gran Tucumán-Tafí Viejo,1550,12
+Software developers and analysts,42021,42,Santa Rosa-Toay,189,5
+Software developers and analysts,94015,94,Ushuaia-Río Grande,92,2
+Software developers and analysts,02007,02,Ciudad Autónoma de Buenos Aires,26939,53
+Software developers and analysts,06427,06,Partidos del Gran Buenos Aires,25369,46
+Software developers and analysts,06357,06,Mar del Plata,828,5
+Software developers and analysts,14098,14,Río Cuarto,293,7
+Software developers and analysts,06763,06,San Nicolás-Villa Constitución,266,7
+Software developers and analysts,26077,26,Rawson-Trelew,350,6
+Software developers and analysts,62007,62,Viedma-Carmen de Patagones,156,5
+ICT technicians and user support,06441,06,Gran La Plata,2446,10
+ICT technicians and user support,06056,06,Bahía Blanca-Cerri,885,10
+ICT technicians and user support,82084,82,Gran Rosario,3779,15
+ICT technicians and user support,82063,82,Gran Santa Fe,827,10
+ICT technicians and user support,30084,30,Gran Paraná,846,14
+ICT technicians and user support,54028,54,Posadas,872,11
+ICT technicians and user support,22140,22,Gran Resistencia,967,8
+ICT technicians and user support,26021,26,Comodoro Rivadavia-Rada Tilly,526,6
+ICT technicians and user support,50007,50,Gran Mendoza,3268,25
+ICT technicians and user support,18021,18,Corrientes,698,4
+ICT technicians and user support,14014,14,Gran Córdoba,6780,31
+ICT technicians and user support,30015,30,Concordia,330,12
+ICT technicians and user support,34014,34,Formosa,136,3
+ICT technicians and user support,58035,58,Neuquén-Plottier,187,1
+ICT technicians and user support,86049,86,Santiago del Estero-La Banda,128,2
+ICT technicians and user support,38021,38,Jujuy-Palpalá,1061,14
+ICT technicians and user support,78021,78,Río Gallegos,139,3
+ICT technicians and user support,10049,10,Gran Catamarca,323,10
+ICT technicians and user support,66028,66,Gran Salta,861,10
+ICT technicians and user support,46014,46,La Rioja,583,13
+ICT technicians and user support,74056,74,Gran San Luis,537,10
+ICT technicians and user support,70028,70,Gran San Juan,1551,15
+ICT technicians and user support,90084,90,Gran Tucumán-Tafí Viejo,1530,14
+ICT technicians and user support,42021,42,Santa Rosa-Toay,543,11
+ICT technicians and user support,94015,94,Ushuaia-Río Grande,526,13
+ICT technicians and user support,02007,02,Ciudad Autónoma de Buenos Aires,23830,48
+ICT technicians and user support,06427,06,Partidos del Gran Buenos Aires,33106,65
+ICT technicians and user support,06357,06,Mar del Plata,2372,14
+ICT technicians and user support,14098,14,Río Cuarto,297,6
+ICT technicians and user support,06763,06,San Nicolás-Villa Constitución,339,11
+ICT technicians and user support,26077,26,Rawson-Trelew,478,11
+ICT technicians and user support,62007,62,Viedma-Carmen de Patagones,100,3
+Business and management analysts,06441,06,Gran La Plata,627,2
+Business and management analysts,82063,82,Gran Santa Fe,86,1
+Business and management analysts,30084,30,Gran Paraná,68,1
+Business and management analysts,54028,54,Posadas,83,1
+Business and management analysts,50007,50,Gran Mendoza,115,1
+Business and management analysts,34014,34,Formosa,87,1
+Business and management analysts,78021,78,Río Gallegos,14,1
+Business and management analysts,10049,10,Gran Catamarca,27,1
+Business and management analysts,46014,46,La Rioja,120,3
+Business and management analysts,70028,70,Gran San Juan,96,1
+Business and management analysts,02007,02,Ciudad Autónoma de Buenos Aires,4379,7
+Business and management analysts,06427,06,Partidos del Gran Buenos Aires,4154,9
+Accountants and auditors,06441,06,Gran La Plata,4378,15
+Accountants and auditors,06056,06,Bahía Blanca-Cerri,1642,18
+Accountants and auditors,82084,82,Gran Rosario,9227,44
+Accountants and auditors,82063,82,Gran Santa Fe,2852,21
+Accountants and auditors,30084,30,Gran Paraná,1677,28
+Accountants and auditors,54028,54,Posadas,1313,15
+Accountants and auditors,22140,22,Gran Resistencia,1372,11
+Accountants and auditors,26021,26,Comodoro Rivadavia-Rada Tilly,766,9
+Accountants and auditors,50007,50,Gran Mendoza,5234,37
+Accountants and auditors,18021,18,Corrientes,1281,15
+Accountants and auditors,14014,14,Gran Córdoba,8976,36
+Accountants and auditors,30015,30,Concordia,404,15
+Accountants and auditors,34014,34,Formosa,863,15
+Accountants and auditors,58035,58,Neuquén-Plottier,2030,17
+Accountants and auditors,86049,86,Santiago del Estero-La Banda,310,4
+Accountants and auditors,38021,38,Jujuy-Palpalá,1403,20
+Accountants and auditors,78021,78,Río Gallegos,515,10
+Accountants and auditors,10049,10,Gran Catamarca,1035,20
+Accountants and auditors,66028,66,Gran Salta,2296,26
+Accountants and auditors,46014,46,La Rioja,690,13
+Accountants and auditors,74056,74,Gran San Luis,502,8
+Accountants and auditors,70028,70,Gran San Juan,2728,23
+Accountants and auditors,90084,90,Gran Tucumán-Tafí Viejo,4285,36
+Accountants and auditors,42021,42,Santa Rosa-Toay,495,14
+Accountants and auditors,94015,94,Ushuaia-Río Grande,902,18
+Accountants and auditors,02007,02,Ciudad Autónoma de Buenos Aires,53408,100
+Accountants and auditors,06427,06,Partidos del Gran Buenos Aires,44520,81
+Accountants and auditors,06357,06,Mar del Plata,2931,17
+Accountants and auditors,14098,14,Río Cuarto,814,20
+Accountants and auditors,06763,06,San Nicolás-Villa Constitución,905,22
+Accountants and auditors,26077,26,Rawson-Trelew,79,2
+Accountants and auditors,62007,62,Viedma-Carmen de Patagones,198,7
+Finance and investment analysts,18021,18,Corrientes,99,1
+Finance and investment analysts,74056,74,Gran San Luis,40,1
+Finance and investment analysts,94015,94,Ushuaia-Río Grande,21,1
+Finance and investment analysts,02007,02,Ciudad Autónoma de Buenos Aires,636,1
+Finance and investment analysts,06427,06,Partidos del Gran Buenos Aires,2242,3
+Finance and investment analysts,06357,06,Mar del Plata,220,1
+Finance and investment analysts,26077,26,Rawson-Trelew,82,1
+Engineers (non-ICT),06441,06,Gran La Plata,147,1
+Engineers (non-ICT),06056,06,Bahía Blanca-Cerri,175,2
+Engineers (non-ICT),82063,82,Gran Santa Fe,128,1
+Engineers (non-ICT),26021,26,Comodoro Rivadavia-Rada Tilly,84,1
+Engineers (non-ICT),50007,50,Gran Mendoza,268,2
+Engineers (non-ICT),14014,14,Gran Córdoba,252,1
+Engineers (non-ICT),30015,30,Concordia,58,2
+Engineers (non-ICT),38021,38,Jujuy-Palpalá,47,1
+Engineers (non-ICT),78021,78,Río Gallegos,30,1
+Engineers (non-ICT),66028,66,Gran Salta,406,5
+Engineers (non-ICT),74056,74,Gran San Luis,71,2
+Engineers (non-ICT),70028,70,Gran San Juan,370,2
+Engineers (non-ICT),90084,90,Gran Tucumán-Tafí Viejo,283,3
+Engineers (non-ICT),06427,06,Partidos del Gran Buenos Aires,2905,4
+Engineers (non-ICT),06357,06,Mar del Plata,130,1
+Engineers (non-ICT),14098,14,Río Cuarto,158,4
+Engineers (non-ICT),06763,06,San Nicolás-Villa Constitución,81,2
+Engineers (non-ICT),26077,26,Rawson-Trelew,57,1
+Business and operations managers,06441,06,Gran La Plata,4000,15
+Business and operations managers,06056,06,Bahía Blanca-Cerri,1319,12
+Business and operations managers,82084,82,Gran Rosario,5530,24
+Business and operations managers,82063,82,Gran Santa Fe,1435,16
+Business and operations managers,30084,30,Gran Paraná,962,18
+Business and operations managers,54028,54,Posadas,898,13
+Business and operations managers,22140,22,Gran Resistencia,581,8
+Business and operations managers,26021,26,Comodoro Rivadavia-Rada Tilly,1759,17
+Business and operations managers,50007,50,Gran Mendoza,3621,26
+Business and operations managers,18021,18,Corrientes,666,8
+Business and operations managers,14014,14,Gran Córdoba,3738,17
+Business and operations managers,30015,30,Concordia,340,14
+Business and operations managers,34014,34,Formosa,204,4
+Business and operations managers,58035,58,Neuquén-Plottier,1678,19
+Business and operations managers,86049,86,Santiago del Estero-La Banda,455,6
+Business and operations managers,38021,38,Jujuy-Palpalá,647,14
+Business and operations managers,78021,78,Río Gallegos,882,19
+Business and operations managers,10049,10,Gran Catamarca,560,17
+Business and operations managers,66028,66,Gran Salta,1522,17
+Business and operations managers,46014,46,La Rioja,384,8
+Business and operations managers,74056,74,Gran San Luis,1002,17
+Business and operations managers,70028,70,Gran San Juan,1598,14
+Business and operations managers,90084,90,Gran Tucumán-Tafí Viejo,2873,26
+Business and operations managers,42021,42,Santa Rosa-Toay,519,12
+Business and operations managers,94015,94,Ushuaia-Río Grande,1292,30
+Business and operations managers,02007,02,Ciudad Autónoma de Buenos Aires,34721,62
+Business and operations managers,06427,06,Partidos del Gran Buenos Aires,35966,69
+Business and operations managers,06357,06,Mar del Plata,2581,17
+Business and operations managers,14098,14,Río Cuarto,369,10
+Business and operations managers,06763,06,San Nicolás-Villa Constitución,639,15
+Business and operations managers,26077,26,Rawson-Trelew,767,16
+Business and operations managers,62007,62,Viedma-Carmen de Patagones,196,9
+Higher-education and IT educators,06441,06,Gran La Plata,3127,8
+Higher-education and IT educators,06056,06,Bahía Blanca-Cerri,322,3
+Higher-education and IT educators,82084,82,Gran Rosario,196,1
+Higher-education and IT educators,82063,82,Gran Santa Fe,850,7
+Higher-education and IT educators,30084,30,Gran Paraná,44,1
+Higher-education and IT educators,54028,54,Posadas,208,2
+Higher-education and IT educators,22140,22,Gran Resistencia,326,5
+Higher-education and IT educators,26021,26,Comodoro Rivadavia-Rada Tilly,124,1
+Higher-education and IT educators,50007,50,Gran Mendoza,1308,8
+Higher-education and IT educators,18021,18,Corrientes,104,2
+Higher-education and IT educators,14014,14,Gran Córdoba,297,1
+Higher-education and IT educators,30015,30,Concordia,44,2
+Higher-education and IT educators,58035,58,Neuquén-Plottier,253,3
+Higher-education and IT educators,86049,86,Santiago del Estero-La Banda,93,1
+Higher-education and IT educators,38021,38,Jujuy-Palpalá,110,2
+Higher-education and IT educators,10049,10,Gran Catamarca,23,1
+Higher-education and IT educators,74056,74,Gran San Luis,87,2
+Higher-education and IT educators,70028,70,Gran San Juan,140,2
+Higher-education and IT educators,42021,42,Santa Rosa-Toay,60,1
+Higher-education and IT educators,94015,94,Ushuaia-Río Grande,56,1
+Higher-education and IT educators,02007,02,Ciudad Autónoma de Buenos Aires,670,3
+Higher-education and IT educators,06427,06,Partidos del Gran Buenos Aires,5131,9
+Higher-education and IT educators,06357,06,Mar del Plata,356,2
+Higher-education and IT educators,14098,14,Río Cuarto,128,4
+Higher-education and IT educators,06763,06,San Nicolás-Villa Constitución,32,1
+Higher-education and IT educators,62007,62,Viedma-Carmen de Patagones,60,2

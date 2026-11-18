@@ -1,0 +1,188 @@
+{
+ "country": "AR",
+ "layer": "D",
+ "source_id": "CEP_XXI_ESTABLECIMIENTOS_2022",
+ "period": "2022 (SIPA, average of the year)",
+ "D1": {
+  "it_establishments": 8739,
+  "it_firms": 5802,
+  "software_establishments": 5360,
+  "software_firms": 3593,
+  "codes_it": "CLAE6 620100, 620200, 620300, 620900, 631110, 631120, 631190, 631200",
+  "code_software": "CLAE6 620100 (Servicios de consultores en informática y suministros de programas de informática)"
+ },
+ "D2": [
+  {
+   "department_code": "02",
+   "department": "Ciudad Autónoma de Buenos Aires",
+   "it_establishments": 4777,
+   "share_pct": 54.7
+  },
+  {
+   "department_code": "06",
+   "department": "Buenos Aires",
+   "it_establishments": 1498,
+   "share_pct": 17.1
+  },
+  {
+   "department_code": "14",
+   "department": "Córdoba",
+   "it_establishments": 720,
+   "share_pct": 8.2
+  },
+  {
+   "department_code": "82",
+   "department": "Santa Fe",
+   "it_establishments": 546,
+   "share_pct": 6.2
+  },
+  {
+   "department_code": "50",
+   "department": "Mendoza",
+   "it_establishments": 265,
+   "share_pct": 3.0
+  },
+  {
+   "department_code": "58",
+   "department": "Neuquén",
+   "it_establishments": 109,
+   "share_pct": 1.2
+  },
+  {
+   "department_code": "90",
+   "department": "Tucumán",
+   "it_establishments": 95,
+   "share_pct": 1.1
+  },
+  {
+   "department_code": "30",
+   "department": "Entre Ríos",
+   "it_establishments": 88,
+   "share_pct": 1.0
+  },
+  {
+   "department_code": "22",
+   "department": "Chaco",
+   "it_establishments": 71,
+   "share_pct": 0.8
+  },
+  {
+   "department_code": "70",
+   "department": "San Juan",
+   "it_establishments": 61,
+   "share_pct": 0.7
+  },
+  {
+   "department_code": "26",
+   "department": "Chubut",
+   "it_establishments": 61,
+   "share_pct": 0.7
+  },
+  {
+   "department_code": "66",
+   "department": "Salta",
+   "it_establishments": 58,
+   "share_pct": 0.7
+  },
+  {
+   "department_code": "54",
+   "department": "Misiones",
+   "it_establishments": 55,
+   "share_pct": 0.6
+  },
+  {
+   "department_code": "18",
+   "department": "Corrientes",
+   "it_establishments": 55,
+   "share_pct": 0.6
+  },
+  {
+   "department_code": "62",
+   "department": "Río Negro",
+   "it_establishments": 54,
+   "share_pct": 0.6
+  },
+  {
+   "department_code": "74",
+   "department": "San Luis",
+   "it_establishments": 44,
+   "share_pct": 0.5
+  },
+  {
+   "department_code": "38",
+   "department": "Jujuy",
+   "it_establishments": 38,
+   "share_pct": 0.4
+  },
+  {
+   "department_code": "42",
+   "department": "La Pampa",
+   "it_establishments": 34,
+   "share_pct": 0.4
+  },
+  {
+   "department_code": "94",
+   "department": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+   "it_establishments": 32,
+   "share_pct": 0.4
+  },
+  {
+   "department_code": "86",
+   "department": "Santiago del Estero",
+   "it_establishments": 21,
+   "share_pct": 0.2
+  },
+  {
+   "department_code": "46",
+   "department": "La Rioja",
+   "it_establishments": 21,
+   "share_pct": 0.2
+  },
+  {
+   "department_code": "78",
+   "department": "Santa Cruz",
+   "it_establishments": 16,
+   "share_pct": 0.2
+  },
+  {
+   "department_code": "10",
+   "department": "Catamarca",
+   "it_establishments": 14,
+   "share_pct": 0.2
+  },
+  {
+   "department_code": "34",
+   "department": "Formosa",
+   "it_establishments": 6,
+   "share_pct": 0.1
+  }
+ ],
+ "D2_size": {
+  "a. 1-9": 6593,
+  "b. 10-49": 1634,
+  "c. 50-199": 422,
+  "d. 200-499": 62,
+  "e. 500+": 28
+ },
+ "D3": {
+  "source_id": "CESSI_OPSSI_2026Q1_PRESS",
+  "registered_employment_software_it_services": 162391,
+  "period": "2026 Q1",
+  "exports_usd_millions_last_12_months": 2848,
+  "exports_usd_millions_2026q1": 744,
+  "firms": null,
+  "note": "Observatorio Permanente de la Industria del Software y Servicios Informáticos (OPSSI, CESSI), Informe de la Industria del Software, as quoted by Ámbito (29-07-2026). The press note gives no number of firms; to confirm with the OPSSI report. Not added to, nor compared as growth with, CEP XXI 2022."
+ },
+ "checks": {
+  "provinces_add_to_total": true,
+  "departments_add_to_total": true,
+  "department_codes_not_in_georef": [],
+  "legacy_codes_recoded": {
+   "06217": "06218",
+   "94007": "94008",
+   "94014": "94015"
+  }
+ },
+ "file_sha256": "d78737e744f04814f7f7c952324c4666e1cb54c81bb645236cc39106939c912c",
+ "limitations": "Employer establishments registered in SIPA only: firms without registered employees (most own-account developers) are outside. CLAE 620100 joins software development and IT consulting, so 'of them software' is an upper bound. CEP XXI calls the base exploratory and provisional."
+}
